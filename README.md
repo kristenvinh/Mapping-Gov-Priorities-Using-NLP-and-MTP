@@ -5,7 +5,7 @@ Goal of this project is to compare two methods for mapping government priorities
 Created using assistance from Gemini AI. 
 
 ## Initial_scrape.py 
-A simple BFS site spider using curl_cffi.requesets and BeautifulSoup that crawls a list of municipality homepages, extracts unique paragraph-like text blocks, skips common binary assets and PDFs (tracking skipped PDF URLs), rate-limits requests, and writes results to municipality_spider_data.json and skipped_pdfs.json. 
+A simple BFS site spider using curl_cffi.requests and BeautifulSoup that crawls a list of municipality homepages, extracts unique paragraph-like text blocks, skips common binary assets and PDFs (tracking skipped PDF URLs), rate-limits requests, and writes results to municipality_spider_data.json and skipped_pdfs.json. 
 
 ## json_cleaning.py
 Cleans the JSON file using the following cleaning parameters to reduce characters fed to NLP or MTP: 
