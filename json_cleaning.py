@@ -61,7 +61,7 @@ def clean_municipality_json(input_filepath: str, output_filepath: str):
         # Store the passing strings under the same municipality key
         cleaned_data[municipality] = cleaned_paragraphs
         
-        # Optional: Print statistics to see how many were removed
+        # Print statistics to see how many were removed
         print(f"[{municipality}] Processed {len(text_list)} raw strings.")
         print(f"[{municipality}] Kept {len(cleaned_paragraphs)} clean strings.")
 

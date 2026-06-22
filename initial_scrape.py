@@ -48,8 +48,6 @@ def spider_municipality(start_url, municipality_name, max_pages=500):
         print(f"  [{pages_scraped + 1}/{max_pages}] Scraping: {current_url}")
         
         try:
-            # THIS IS THE MAGIC LINE. 
-            # It flawlessly impersonates a real Chrome browser at the network level.
             response = requests.get(current_url, impersonate="chrome", timeout=15)
             
             # Catch bad status codes manually
@@ -92,7 +90,7 @@ def main():
 
     for name, start_url in TARGET_URLS.items():
         print(f"\n--- Starting Spider for: {name} ---")
-        extracted_text = spider_municipality(start_url, name, max_pages=100) 
+        extracted_text = spider_municipality(start_url, name, max_pages=500) 
         spider_results[name] = extracted_text
         print(f"Finished {name}. Total text blocks extracted: {len(extracted_text)}")
 
