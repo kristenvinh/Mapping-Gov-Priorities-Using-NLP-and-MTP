@@ -1,7 +1,7 @@
 Metric,Value
 Government Websites (N = 5),5.0
-Average amount of text paragraphs (per unit),2145.6
-Average amount of cleaned text paragraphs (per unit),668.8
-Average amount of words [RAW] (per unit),230203.2
-Average amount of words [CLEANED] (per unit),52442.6
-Gini of cleaned text paragraphs,0.3
+Average amount of text paragraphs (per unit),6285.8
+Average amount of cleaned text paragraphs (per unit),1990.4
+Average amount of words [RAW] (per unit),691186.8
+Average amount of words [CLEANED] (per unit),201231.6
+Gini of cleaned text paragraphs,0.14
