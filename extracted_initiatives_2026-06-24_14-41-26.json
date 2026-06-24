@@ -1,0 +1,164 @@
+[
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 0,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "planning",
+            "lumo",
+            "plan",
+            "land",
+            "virtual",
+            "webinar",
+            "comprehensive",
+            "achieving",
+            "analyzing",
+            "evaluating"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community",
+            "local government"
+        ],
+        "summary": "The Planning Commission assists the Council in Chapel Hill with achieving the town's comprehensive plan for orderly growth and development. This involves analyzing, evaluating, and recommending town policies, ordinances, and planning standards for land use management and community involvement in long-range planning.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 1,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "housing",
+            "affordable",
+            "funding",
+            "bond",
+            "projects",
+            "million",
+            "bonds",
+            "referendum",
+            "tracker",
+            "income"
+        ],
+        "budget_allocation": 25000000.0,
+        "impacted_stakeholders": [
+            "Chapel Hill residents",
+            "low-income residents",
+            "affordable housing developers",
+            "local and regional partners",
+            "voters",
+            "Town Council"
+        ],
+        "summary": "Chapel Hill has approved a total of $25 million in bond funding through two municipal bond referendums (2018 and 2024) to support affordable housing projects. These funds are designated for constructing new affordable housing, preserving existing units, acquiring property, and rehabilitation/redevelopment, aligning with the Town's Affordable Housing Plan and Investment Strategy. The initiative aims to leverage state and federal funding and local/regional partnerships. The 2018 bond allocated $10 million to 8 projects, developing 303 units and preserving 40, while the 2024 bond of $15 million is estimated to support up to 450 additional affordable housing units.",
+        "related_doc_count": 2
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 2,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "agenda",
+            "meeting",
+            "items",
+            "council",
+            "motion",
+            "item",
+            "public",
+            "sessions",
+            "meetings",
+            "vote"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Council members",
+            "Town Manager",
+            "Mayor",
+            "Town Attorney",
+            "Town Clerk",
+            "Citizens",
+            "Public",
+            "News media",
+            "Staff"
+        ],
+        "summary": "This initiative establishes the comprehensive framework for Chapel Hill Council meetings, detailing procedures for agenda preparation, various meeting types (regular, special, emergency, closed sessions), public participation, voting rules for ordinances, resolutions, and motions, and record-keeping practices. It outlines the roles and responsibilities of Council members, the Mayor, and town staff in conducting official business and ensuring transparency.",
+        "related_doc_count": 4
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 3,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "waste",
+            "trash",
+            "yard",
+            "piles",
+            "trimmings",
+            "collection",
+            "cart",
+            "truckload",
+            "dumpster",
+            "large"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Contractors",
+            "Builders"
+        ],
+        "summary": "Chapel Hill provides services and guidelines for yard waste and trash disposal. Residents can take one truckload of yard trimmings per day or weekend to an Orange County Waste and Recycling Center for free. For larger yard trimming piles (over three cubic yards), a Knuckleboom Truck Collection service is available for $125 per truckload. The town does not pick up certain materials like loose leaves, large logs, or clearing debris; these must be removed by contractors or builders.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 4,
+        "primary_category": "job creation and business support",
+        "representation": [
+            "children",
+            "age",
+            "business",
+            "application",
+            "vitality",
+            "live",
+            "chapel",
+            "hill",
+            "assistance",
+            "child"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Small business owners",
+            "Childcare providers",
+            "Families",
+            "Children",
+            "Local workforce"
+        ],
+        "summary": "Chapel Hill offers comprehensive support for small businesses through a Business Vitality Manager, assisting with growth, permitting, relocation, and resource connection. The town also specifies permit requirements for childcare facilities, differentiating between Family Child Care Homes (Home Occupation Permit) and Child Care Centers (Business Occupancy Application), and notes the need for additional applications with the NC Department of Health and Human Services.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 5,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "stormwater",
+            "water",
+            "training",
+            "watershed",
+            "lake",
+            "professionals",
+            "control",
+            "jordan",
+            "management",
+            "maintenance"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "property owners",
+            "licensed North Carolina Professional Engineer",
+            "Landscape Architect",
+            "SCM Inspectors",
+            "SCM Contractors"
+        ],
+        "summary": "The Town of Chapel Hill mandates annual inspections of Stormwater Control Measures (SCMs) by licensed North Carolina Professional Engineers or Landscape Architects. These professionals must have qualified stormwater management inspection and maintenance training and provide proof of certification upon request. Property owners are responsible for these inspections. The town also provides a self-reported list of qualified professionals.",
+        "related_doc_count": 3
+    }
+]
