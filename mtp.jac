@@ -51,10 +51,16 @@ with entry {
     
     output_data = [];
 
+    # CHANGE THIS NUMBER to the index where it failed.
+
+    start_index = 12; 
+
+    print(f"Resuming extraction from document {start_index + 1}...");
+
     print(f"Starting extraction to file: {export_path}");
     
     try {
-        for i in range(len(_list)) {
+        for i in range(start_index, len(_list)) {
             print(f"Processing document {i+1} of {len(_list)}...");
             
             chunk_str = json.dumps(_list[i]);

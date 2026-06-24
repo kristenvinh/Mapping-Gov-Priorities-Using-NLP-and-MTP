@@ -1,9 +1,9 @@
 Metric,Value
 Government Websites (N = 5),5.0
-Average amount of subpages (per unit),20.0
-Average amount of cleaned subpages (per unit),13.8
-Average amount of text paragraphs (per unit),420.2
-Average amount of cleaned text paragraphs (per unit),132.0
-Average amount of words [RAW] (per unit),34478.6
-Average amount of words [CLEANED] (per unit),9034.2
-Gini of cleaned text paragraphs,0.24
+Average amount of subpages (per unit),453.4
+Average amount of cleaned subpages (per unit),203.0
+Average amount of text paragraphs (per unit),6277.6
+Average amount of cleaned text paragraphs (per unit),1991.0
+Average amount of words [RAW] (per unit),691182.8
+Average amount of words [CLEANED] (per unit),202139.0
+Gini of cleaned text paragraphs,0.14

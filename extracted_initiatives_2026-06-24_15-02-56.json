@@ -1,0 +1,27 @@
+[
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 8,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "lot",
+            "maximum",
+            "size",
+            "minimum",
+            "unrelated",
+            "apartment",
+            "detached",
+            "parking",
+            "accessory",
+            "feet"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "property owners",
+            "developers"
+        ],
+        "summary": "This initiative details dimensional standards for accessory apartments and two-family housing units in Chapel Hill. For accessory apartments, regulations include a maximum floor area of 1,000 sq ft (with potential exceptions), a height limit of 29 feet, an impervious surface ratio of 0.50, a density of one accessory apartment per zoning lot, occupancy limits of up to 4 unrelated people, and a maximum of 1 parking space per bedroom. For two-family units, standards include a maximum floor area of 5,000 sq ft, heights determined by the zoning district, an impervious surface ratio of 0.50, occupancy limits of up to 4 unrelated people per unit, no minimum parking requirement but a maximum of 4 outdoor spaces on-site, and 40% tree canopy coverage. Both housing types require a minimum lot size as specified by the zoning district.",
+        "related_doc_count": 3
+    }
+]

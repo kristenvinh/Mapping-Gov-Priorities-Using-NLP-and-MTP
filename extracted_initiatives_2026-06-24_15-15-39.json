@@ -1,0 +1,79 @@
+[
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 9,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "zoning",
+            "compliance",
+            "plan",
+            "district",
+            "site",
+            "review",
+            "buffer",
+            "sq",
+            "ft",
+            "plans"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Property Owners",
+            "Developers",
+            "Businesses",
+            "Residents"
+        ],
+        "summary": "This initiative outlines the procedures and requirements for Zoning Compliance Permits and Site Plan approvals in Chapel Hill. It details three levels of review (Limited Review, Administrative, and Final Plans) for various types of projects, from minor exterior improvements to new developments. It also specifies the necessary documentation, such as site plans, and provides resources like GIS maps and zoning lookup tools for compliance with the Land Use Management Ordinance.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 10,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "flood",
+            "risk",
+            "map",
+            "fema",
+            "maps",
+            "mapping",
+            "data",
+            "products",
+            "hazard",
+            "understand"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "homeowners",
+            "community officials",
+            "engineers",
+            "insurance professionals"
+        ],
+        "summary": "This initiative details FEMA's flood hazard mapping program, which provides communities with tools to understand and manage flood risk. Flood maps are used by mortgage lenders and aid in developing risk reduction strategies. The process involves collaboration between FEMA, local communities, engineers, and surveyors to collect data, create, and update maps, with mechanisms for public review and map revisions.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 11,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "police",
+            "vehicle",
+            "incident",
+            "reports",
+            "check",
+            "house",
+            "doors",
+            "windows",
+            "report",
+            "make"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "property owners",
+            "victims of crime"
+        ],
+        "summary": "The Chapel Hill Police Department provides services including house checks for residents who are out of town, where officers ensure property security. Additionally, the department offers a Virtual Report Unit for filing various non-emergency police reports (e.g., harassment, identity theft, lost/stolen property, property/vehicle damage, theft from vehicle, phone scams) via phone, in-person, or online. Incident and arrest reports are also available for online viewing.",
+        "related_doc_count": 3
+    }
+]
