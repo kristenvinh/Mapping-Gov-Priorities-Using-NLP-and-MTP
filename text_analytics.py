@@ -30,7 +30,7 @@ def generate_table_1(raw_json_path, cleaned_json_path):
 
     # 2. Initialize counters
     raw_subpage_counts = []
-    cleaned_subpage_counts =[]
+    cleaned_subpage_counts = []
     raw_para_counts = []
     cleaned_para_counts = []
     raw_word_counts = []
