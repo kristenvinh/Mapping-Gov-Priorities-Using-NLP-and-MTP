@@ -13,8 +13,20 @@ embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 municipality_models = {}
 
 for municipality, texts in spider_data.items():
+    if isinstance(texts, dict):
+        raw_texts = [
+            text
+            for text_list in texts.values()
+            if isinstance(text_list, list)
+            for text in text_list
+        ]
+    elif isinstance(texts, list):
+        raw_texts = texts
+    else:
+        raw_texts = []
+
     # 1. Filter valid texts for just this municipality
-    valid_texts = [text.strip() for text in texts if isinstance(text, str) and text.strip()]
+    valid_texts = [text.strip() for text in raw_texts if isinstance(text, str) and text.strip()]
     doc_count = len(valid_texts)
     
     print(f"\nProcessing {municipality} ({doc_count} documents)...")

@@ -29,6 +29,8 @@ def generate_table_1(raw_json_path, cleaned_json_path):
     N = len(municipalities)
 
     # 2. Initialize counters
+    raw_subpage_counts = []
+    cleaned_subpage_counts = []
     raw_para_counts = []
     cleaned_para_counts = []
     raw_word_counts = []
@@ -36,18 +38,27 @@ def generate_table_1(raw_json_path, cleaned_json_path):
 
     # 3. Extract metrics per municipality
     for muni in municipalities:
-        # Raw Data Extraction
-        raw_texts = raw_data.get(muni, [])
-        raw_para_counts.append(len(raw_texts))
+        # Extract the dictionary of URLs for this municipality
+        raw_muni_data = raw_data.get(muni, {})
+        cleaned_muni_data = cleaned_data.get(muni, {})
         
-        # Simple word count approximation (splitting by whitespace)
+        # Subpage count is just the number of URL keys
+        raw_subpage_counts.append(len(raw_muni_data))
+        cleaned_subpage_counts.append(len(cleaned_muni_data))
+
+        # Flatten the paragraphs across all URLs into a single list
+        raw_texts = [text for url_texts in raw_muni_data.values() for text in url_texts]
+        cleaned_texts = [text for url_texts in cleaned_muni_data.values() for text in url_texts]
+
+        # Calculate paragraph counts
+        raw_para_counts.append(len(raw_texts))
+        cleaned_para_counts.append(len(cleaned_texts))
+        
+        
+        # Calculate word counts
         raw_words = sum(len(text.split()) for text in raw_texts)
         raw_word_counts.append(raw_words)
 
-        # Cleaned Data Extraction
-        cleaned_texts = cleaned_data.get(muni, [])
-        cleaned_para_counts.append(len(cleaned_texts))
-        
         cleaned_words = sum(len(text.split()) for text in cleaned_texts)
         cleaned_word_counts.append(cleaned_words)
 
@@ -55,6 +66,8 @@ def generate_table_1(raw_json_path, cleaned_json_path):
     stats = {
         "Metric": [
             f"Government Websites (N = {N})",
+            "Average amount of subpages (per unit)",
+            "Average amount of cleaned subpages (per unit)",
             "Average amount of text paragraphs (per unit)",
             "Average amount of cleaned text paragraphs (per unit)",
             "Average amount of words [RAW] (per unit)",
@@ -63,6 +76,8 @@ def generate_table_1(raw_json_path, cleaned_json_path):
         ],
         "Value": [
             N,
+            round(np.mean(raw_subpage_counts), 2),
+            round(np.mean(cleaned_subpage_counts), 2),
             round(np.mean(raw_para_counts), 2),
             round(np.mean(cleaned_para_counts), 2),
             round(np.mean(raw_word_counts), 2),
@@ -73,7 +88,7 @@ def generate_table_1(raw_json_path, cleaned_json_path):
 
     # 5. Format as a clean table using Pandas
     df = pd.DataFrame(stats)
-    print("Description of the processed data ---")
+    print("\n--- Table 1: Description of the processed data ---")
     print(df.to_string(index=False))
     
     # Export to CSV for inclusion in a report

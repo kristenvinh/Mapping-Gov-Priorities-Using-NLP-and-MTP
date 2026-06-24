@@ -6,11 +6,11 @@ import json
 from curl_cffi import requests 
 
 TARGET_URLS = {
-    "Mebane": "https://cityofmebanenc.gov/",
-    "Orange County": "https://www.orangecountync.gov/",
     "Chapel Hill": "https://www.chapelhillnc.gov/",
     "Carrboro": "https://www.carrboronc.gov/",
     "Hillsborough": "https://www.hillsboroughnc.gov/",
+    "Mebane": "https://cityofmebanenc.gov/",
+    "Orange County": "https://www.orangecountync.gov/",
 }
 
 skipped_pdfs_tracker = {}
@@ -39,7 +39,12 @@ def spider_municipality(start_url, municipality_name, max_pages=500):
     base_domain = urlparse(start_url).netloc
     queue = [start_url]
     visited = set([start_url])
-    all_site_paragraphs = []
+    
+    # NEW: Dictionary to store paragraphs grouped by their specific URL
+    site_pages_data = {}
+    
+    # NEW: Maintain a set to ensure global deduplication across the whole municipality
+    seen_paragraphs = set()
     
     pages_scraped = 0
 
@@ -63,10 +68,20 @@ def spider_municipality(start_url, municipality_name, max_pages=500):
             for tag in soup(['script', 'style', 'svg', 'nav', 'footer', 'header', 'noscript', 'meta', 'link']):
                 tag.decompose()
             
+            # Initialize the list for this specific URL
+            site_pages_data[current_url] = []
+            
             for element in soup.find_all(['p', 'div', 'li']): 
                 text = element.get_text(separator=' ', strip=True)
-                if len(text) > 30 and text not in all_site_paragraphs: 
-                    all_site_paragraphs.append(text)
+                
+                # Check against the global seen_paragraphs set to prevent duplicates
+                if len(text) > 30 and text not in seen_paragraphs: 
+                    seen_paragraphs.add(text)
+                    site_pages_data[current_url].append(text)
+            
+            # Optional: If a page yielded no valid text blocks, you can choose to remove its key
+            # if not site_pages_data[current_url]:
+            #     del site_pages_data[current_url]
             
             pages_scraped += 1
 
@@ -83,16 +98,19 @@ def spider_municipality(start_url, municipality_name, max_pages=500):
 
         time.sleep(1.5) 
 
-    return all_site_paragraphs
+    return site_pages_data
 
 def main():
     spider_results = {}
 
     for name, start_url in TARGET_URLS.items():
         print(f"\n--- Starting Spider for: {name} ---")
-        extracted_text = spider_municipality(start_url, name, max_pages=500) 
-        spider_results[name] = extracted_text
-        print(f"Finished {name}. Total text blocks extracted: {len(extracted_text)}")
+        extracted_data = spider_municipality(start_url, name, max_pages=500) 
+        spider_results[name] = extracted_data
+        
+        # Calculate total text blocks across all subpages for the print readout
+        total_blocks = sum(len(paragraphs) for paragraphs in extracted_data.values())
+        print(f"Finished {name}. Total text blocks extracted: {total_blocks}")
 
     with open('municipality_spider_data.json', 'w', encoding='utf-8') as f:
         json.dump(spider_results, f, ensure_ascii=False, indent=4)
