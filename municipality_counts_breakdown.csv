@@ -1,6 +1,6 @@
-Municipality,Raw Paragraphs,Cleaned Paragraphs,% Paragraphs Kept,Raw Words,Cleaned Words,% Words Kept
-Carrboro,7575,1865,24.62,1242455,182325,14.67
-Chapel Hill,6820,2066,30.29,761588,233908,30.71
-Hillsborough,5599,2950,52.69,390329,252312,64.64
-Mebane,4811,1321,27.46,349849,171338,48.97
-Orange County,6624,1750,26.42,711713,166275,23.36
+Municipality,Raw Subpages,Cleaned Subpages,Raw Paragraphs,Cleaned Paragraphs,% Paragraphs Kept,Raw Words,Cleaned Words,% Words Kept
+Carrboro,500,208,7569,1865,24.64,1243874,182325,14.66
+Chapel Hill,267,212,6785,2062,30.39,757752,234561,30.95
+Hillsborough,500,169,5607,2964,52.86,391621,255645,65.28
+Mebane,500,203,4806,1320,27.47,350506,171739,49.0
+Orange County,500,223,6621,1744,26.34,712161,166425,23.37

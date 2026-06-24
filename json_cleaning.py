@@ -44,32 +44,40 @@ def clean_municipality_json(input_filepath: str, output_filepath: str):
     """Loads a JSON file, filters the text strings, and saves a cleaned version."""
     
     # Load the raw JSON data
+    # Load the raw JSON data
     with open(input_filepath, 'r', encoding='utf-8') as file:
         data = json.load(file)
     
     cleaned_data = {}
     
-    # Iterate through the dictionary keys (e.g., "Mebane") and their string lists
-    for municipality, text_list in data.items():
-        cleaned_paragraphs = []
+    # Iterate through the dictionary keys (e.g., "Mebane") and their subpages
+    for municipality, url_data in data.items():
+        # Initialize the municipality in our clean dictionary
+        cleaned_data[municipality] = {}
         
-        # Apply the filter to each string element in the list
-        for text_snippet in text_list:
-            if passes_text_quality_filter(text_snippet):
-                cleaned_paragraphs.append(text_snippet)
-                
-        # Store the passing strings under the same municipality key
-        cleaned_data[municipality] = cleaned_paragraphs
-        
-        # Print statistics to see how many were removed
-        print(f"[{municipality}] Processed {len(text_list)} raw strings.")
-        print(f"[{municipality}] Kept {len(cleaned_paragraphs)} clean strings.")
+        for url, text_list in url_data.items():
+            cleaned_paragraphs = []
+            
+            # Apply the filter to each string element in the list
+            for text_snippet in text_list:
+                if passes_text_quality_filter(text_snippet):
+                    cleaned_paragraphs.append(text_snippet)
+                    
+            # NEW: Only store the URL if there is actually cleaned text left
+            if len(cleaned_paragraphs) > 0:
+                cleaned_data[municipality][url] = cleaned_paragraphs
+            
+            # Print statistics
+            print(f"[{url}] Processed {len(text_list)} raw strings.")
+            print(f"[{url}] Kept {len(cleaned_paragraphs)} clean strings.")
+            
+        # Optional: If a municipality ended up with ZERO valid URLs, you can remove it entirely
+        if not cleaned_data[municipality]:
+            del cleaned_data[municipality]
 
     # Save the cleaned data to a new JSON file
     with open(output_filepath, 'w', encoding='utf-8') as file:
         json.dump(cleaned_data, file, indent=4)
-        
-    print(f"\nSuccess! Cleaned data saved to: {output_filepath}")
 
 # --- Example Usage ---
 if __name__ == "__main__":

@@ -16,9 +16,17 @@ def generate_municipality_breakdown(raw_json_path, cleaned_json_path):
     municipalities = list(raw_data.keys())
 
     for muni in municipalities:
-        # Extract lists
-        raw_texts = raw_data.get(muni, [])
-        cleaned_texts = cleaned_data.get(muni, [])
+        # Extract the dictionary of URLs
+        raw_muni_data = raw_data.get(muni, {})
+        cleaned_muni_data = cleaned_data.get(muni, {})
+        
+        # Calculate subpage counts (number of URLs)
+        raw_subpage_count = len(raw_muni_data)
+        cleaned_subpage_count = len(cleaned_muni_data)
+        
+        # Flatten all paragraphs from all URLs into flat lists for text counting
+        raw_texts = [text for url_texts in raw_muni_data.values() for text in url_texts]
+        cleaned_texts = [text for url_texts in cleaned_muni_data.values() for text in url_texts]
         
         # Calculate paragraph counts
         raw_para_count = len(raw_texts)
@@ -35,6 +43,8 @@ def generate_municipality_breakdown(raw_json_path, cleaned_json_path):
         # Append the municipality's stats to our list
         metrics_list.append({
             "Municipality": muni,
+            "Raw Subpages": raw_subpage_count,
+            "Cleaned Subpages": cleaned_subpage_count,
             "Raw Paragraphs": raw_para_count,
             "Cleaned Paragraphs": cleaned_para_count,
             "% Paragraphs Kept": round(para_retention, 2),
