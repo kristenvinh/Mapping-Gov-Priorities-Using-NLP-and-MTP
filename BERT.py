@@ -9,7 +9,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 with open('cleaned_municipality_spider_data.json', 'r') as file:
     spider_data = json.load(file)
 
-embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+embedding_model = SentenceTransformer("all-mpnet-base-v2")
 municipality_models = {}
 
 for municipality, texts in spider_data.items():
@@ -59,7 +59,7 @@ for municipality, texts in spider_data.items():
         umap_model=umap_model,
         hdbscan_model=hdbscan_model,
         vectorizer_model=vectorizer_model,
-        language="multilingual"
+        language="english"
     )
 
     # 5. Fit the isolated model
