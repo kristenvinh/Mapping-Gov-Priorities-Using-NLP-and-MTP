@@ -44,7 +44,6 @@ def clean_municipality_json(input_filepath: str, output_filepath: str):
     """Loads a JSON file, filters the text strings, and saves a cleaned version."""
     
     # Load the raw JSON data
-    # Load the raw JSON data
     with open(input_filepath, 'r', encoding='utf-8') as file:
         data = json.load(file)
     
