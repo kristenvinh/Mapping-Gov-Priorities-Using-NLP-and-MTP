@@ -73,23 +73,49 @@ for municipality, texts in spider_data.items():
     
     print(municipality_models[municipality]["info"].head(3))
 
-all_results = []
+    all_results = []
+    mtp_extraction_data = []    # New list specifically for Stage 2 (MTP)
 
-# Iterate through the dictionary to extract the topic info
-for municipality, data in municipality_models.items():
-    # Make a copy of the dataframe so we don't alter the original
-    df_info = data["info"].copy() 
-    
-    # Add a column so we know which municipality these topics belong to
-    df_info['Municipality'] = municipality 
-    
-    all_results.append(df_info)
+    for municipality, data in municipality_models.items():
+        topic_model = data["model"]
+        df_info = data["info"].copy()
+        
+        # Standard export data
+        df_info['Municipality'] = municipality
+        all_results.append(df_info)
+        
+        # --- NEW: Extract Representative Docs for MTP ---
+        # This returns a dictionary of {topic_id: [doc1, doc2, doc3]}
+        rep_docs_dict = topic_model.get_representative_docs()
+        
+        for topic_id, docs in rep_docs_dict.items():
+            # Skip the outlier/noise topic, which BERTopic always labels as -1
+            if topic_id == -1:
+                continue
+                
+            # Grab the BERTopic generated name for context
+            topic_name = str(df_info[df_info['Topic'] == topic_id]['Name'].iloc[0])
+            
+            # Extract the Representation column (which is a list of keywords)
+            # We wrap it in list() just to be absolutely certain it is JSON-serializable
+            topic_representation = list(df_info[df_info['Topic'] == topic_id]['Representation'].iloc[0])
+            
+            # Structure the data perfectly for your LLM batching
+            mtp_extraction_data.append({
+                "municipality": municipality,
+                "topic_id": int(topic_id),
+                "topic_name": topic_name,
+                "representation": topic_representation,  # <--- NEW FIELD ADDED HERE
+                "representative_documents": docs 
+            })
 
-# Combine them all into one master dataframe
-final_results_df = pd.concat(all_results, ignore_index=True)
+    # Combine and save the standard topic metadata
+    final_results_df = pd.concat(all_results, ignore_index=True)
+    final_results_df.to_csv('independent_models_results.csv', index=False)
+    final_results_df.to_json('independent_models_results.json', orient='records', indent=4)
 
-# 1. Save the combined dataframe to CSV
-final_results_df.to_csv('independent_models_results.csv', index=False)
-
-# 2. Save the combined dataframe to JSON
-final_results_df.to_json('independent_models_results.json', orient='records', indent=4)
+    # Save the isolated representative documents for the byLLM extraction phase
+    with open('mtp_representative_docs.json', 'w', encoding='utf-8') as f:
+        json.dump(mtp_extraction_data, f, indent=4)
+        
+    print("Success! Created 'mtp_representative_docs.json' for the MTP pipeline.")
