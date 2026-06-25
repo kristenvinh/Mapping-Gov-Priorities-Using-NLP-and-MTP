@@ -37,33 +37,39 @@ Return a list of PolicyInitiative objects.
 def extract_initiatives(web_text: str) -> list[PolicyInitiative] by llm();
 
 with entry {
-    # 1. Define input file
     file_path = 'mtp_representative_docs.json';
-    
-    # 2. Generate a unique, timestamped filename
-    # This will result in something like: extracted_2026-06-24_14-45-05.json
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S");
     export_path = f"extracted_initiatives_{timestamp}.json";
     
-    # 3. Read input
     file_content = open(file_path, "r").read();
     _list = json.loads(file_content);
     
     output_data = [];
 
-    # CHANGE THIS NUMBER to the index where it failed.
+    start_index = 150; 
+    
+    # NEW: Define how many documents to send in a single LLM call
+    batch_size = 10; 
 
-    start_index = 12; 
-
-    print(f"Resuming extraction from document {start_index + 1}...");
-
-    print(f"Starting extraction to file: {export_path}");
+    print(f"Resuming extraction from document {start_index + 1} with a batch size of {batch_size}...");
     
     try {
-        for i in range(start_index, len(_list)) {
-            print(f"Processing document {i+1} of {len(_list)}...");
+        # NEW: The range function now jumps forward by 'batch_size' each loop
+        for i in range(start_index, len(_list), batch_size) {
             
-            chunk_str = json.dumps(_list[i]);
+            # Calculate where this current batch ends
+            end_index = i + batch_size;
+            if end_index > len(_list) {
+                end_index = len(_list);
+            }
+            
+            print(f"Processing documents {i+1} to {end_index} of {len(_list)}...");
+            
+            # Slice the list to grab just the current batch of documents
+            batch_list = _list[i:end_index];
+            chunk_str = json.dumps(batch_list);
+            
+            # Send the whole batch to the LLM at once
             extracted = extract_initiatives(chunk_str);
             
             if extracted {
@@ -80,21 +86,19 @@ with entry {
                     });
                 }
                 
-                # Overwrite the timestamped file as we go
+                # Autosave after every batch
                 with open(export_path, 'w') as f {
                     json.dump(output_data, f, indent=4);
                 }
             }
-            # Sleep for 13 seconds between requests. 
-            # 60 seconds / 13 seconds = ~4.6 requests per minute.
-            # This keeps you safely under the 5 RPM limit.
+            
             print("Sleeping to respect rate limits...");
-            time.sleep(13);
+            time.sleep(13); 
         }
         print(f"Done! All data saved to {export_path}");
 
     } except Exception as e {
         print(f"\n[!] Error encountered at index {i}: {e}");
-        print(f"[!] Progress saved in {export_path}.");
+        print(f"[!] Progress saved in {export_path}. To resume, set start_index to {i}.");
     }
 }
