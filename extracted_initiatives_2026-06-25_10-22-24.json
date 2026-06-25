@@ -1,0 +1,1338 @@
+[
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 0,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "planning",
+            "lumo",
+            "plan",
+            "land",
+            "virtual",
+            "webinar",
+            "comprehensive",
+            "achieving",
+            "analyzing",
+            "evaluating"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Community",
+            "Planning Commission",
+            "Council",
+            "Public"
+        ],
+        "summary": "The Planning Commission assists the Council in achieving the Town\u2019s comprehensive plan for orderly growth and development by analyzing, evaluating, and recommending responsible town policies, ordinances, and planning standards that manage land use and involve the community in long-range planning. Meetings are often virtual webinars.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 1,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "housing",
+            "affordable",
+            "funding",
+            "bond",
+            "projects",
+            "million",
+            "bonds",
+            "referendum",
+            "tracker",
+            "income"
+        ],
+        "budget_allocation": 25000000.0,
+        "impacted_stakeholders": [
+            "Residents",
+            "Low-income individuals",
+            "Housing developers",
+            "Community Housing Partners",
+            "Habitat for Humanity"
+        ],
+        "summary": "Chapel Hill has approved a total of $25 million in bond funding through municipal bond referendums to support affordable housing projects, including new construction, preservation, and land acquisition. This initiative aims to align with the Town's Affordable Housing Plan and Investment Strategy, leveraging state and federal funding and local partnerships. The bonds are expected to support the development and preservation of hundreds of affordable housing units.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 2,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "agenda",
+            "meeting",
+            "items",
+            "council",
+            "motion",
+            "item",
+            "public",
+            "sessions",
+            "meetings",
+            "vote"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Council members",
+            "Town Manager",
+            "Town Attorney",
+            "Town Clerk",
+            "Citizens",
+            "Public",
+            "News media"
+        ],
+        "summary": "This topic outlines the procedures for Chapel Hill Council meetings, including the preparation and order of agendas, methods for adding and removing items, public participation guidelines, voting rules for various actions (ordinances, resolutions, motions), and specific procedures for public hearings and closed sessions. It details the roles of the Mayor, Council members, and staff in town governance.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 3,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "waste",
+            "trash",
+            "yard",
+            "piles",
+            "trimmings",
+            "collection",
+            "cart",
+            "truckload",
+            "dumpster",
+            "large"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Property owners",
+            "Contractors",
+            "Builders"
+        ],
+        "summary": "Chapel Hill provides services for yard trimming collection, including guidelines for pile size and options for large brush piles. Residents can take one truckload of yard trimmings to Orange County Waste and Recycling Center for free. For larger piles, a Knuckleboom Truck Collection service is available for a fee. Certain materials like loose leaves, large logs, and clearing debris are not picked up by the town.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 4,
+        "primary_category": "job creation and business support",
+        "representation": [
+            "children",
+            "age",
+            "business",
+            "application",
+            "vitality",
+            "live",
+            "chapel",
+            "hill",
+            "assistance",
+            "child"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Small business owners",
+            "Entrepreneurs",
+            "Families with children",
+            "Childcare providers",
+            "North Carolina Department of Health and Human Services"
+        ],
+        "summary": "Chapel Hill offers personalized support for small businesses through its Business Vitality Manager, assisting with growth, permitting, relocation, and market data. The town also outlines permit requirements for operating childcare facilities, distinguishing between Family Child Care Homes and Child Care Centers, and noting additional state-level applications.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 5,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "stormwater",
+            "water",
+            "training",
+            "watershed",
+            "lake",
+            "professionals",
+            "control",
+            "jordan",
+            "management",
+            "maintenance"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Property owners",
+            "Licensed North Carolina Professional Engineers",
+            "Landscape Architects",
+            "Stormwater professionals",
+            "Town of Chapel Hill staff"
+        ],
+        "summary": "Chapel Hill mandates annual inspections of Stormwater Control Measures (SCMs) by licensed North Carolina Professional Engineers or Landscape Architects with qualified stormwater management inspection and maintenance training. Property owners are responsible for these inspections, and professionals must provide proof of certification or training upon request. The town provides a self-reported list of qualified professionals.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 6,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "liquids",
+            "flammable",
+            "systems",
+            "combustible",
+            "installation",
+            "store",
+            "performed",
+            "storage",
+            "modification",
+            "operate"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Property owners",
+            "Contractors",
+            "Builders",
+            "Businesses",
+            "Residents"
+        ],
+        "summary": "Chapel Hill requires construction permits for the installation or alteration of various systems, including smoke control/exhaust systems, solar photovoltaic power systems, and outdoor stationary cryogenic fluid storage systems (exceeding certain capacities). Routine maintenance performed in accordance with the NC Fire Code is explicitly stated not to require a permit.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 7,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "pay",
+            "job",
+            "positions",
+            "employees",
+            "evergreen",
+            "departments",
+            "classification",
+            "ranges",
+            "new",
+            "progressions"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town employees",
+            "Supervisors",
+            "Department heads",
+            "Town Manager",
+            "HRD",
+            "Town Council"
+        ],
+        "summary": "Chapel Hill conducted an Employee Pay and Classification Study, resulting in a new Pay Plan with updated pay grades, salary ranges, and job titles. This initiative aims to ensure fair compensation and provide clear career progression paths for employees. It involved input from employees and supervisors, benchmarking against peer organizations, and includes plans for yearly increases and detailed job progressions.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 8,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "lot",
+            "maximum",
+            "size",
+            "minimum",
+            "unrelated",
+            "apartment",
+            "detached",
+            "parking",
+            "accessory",
+            "feet"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Property owners",
+            "Developers",
+            "Residents"
+        ],
+        "summary": "Chapel Hill defines dimensional standards for various housing types, including accessory apartments and two-family units. These standards cover minimum lot size, maximum floor area, height limits, impervious surface ratio, occupancy limits (e.g., maximum 4 unrelated people), and parking requirements. These regulations are part of the town's zoning and land use management.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 9,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "zoning",
+            "compliance",
+            "plan",
+            "district",
+            "site",
+            "review",
+            "buffer",
+            "sq",
+            "ft",
+            "plans"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Property owners",
+            "Developers",
+            "Builders",
+            "Applicants",
+            "Town staff",
+            "Planning Director"
+        ],
+        "summary": "Chapel Hill's Zoning Compliance Permit process involves different levels of review (Limited, Administrative, Final Plans) for various types of work, from food trucks to new developments. The process requires detailed site plans that demonstrate compliance with zoning regulations, including considerations for Resource Conservation Districts, floodplains, and Jordan Watershed Riparian Buffers. Resources like GIS maps and zoning lookup tools are provided to assist applicants.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 10,
+        "primary_category": "climate action and clean energy",
+        "representation": [
+            "flood",
+            "risk",
+            "map",
+            "fema",
+            "maps",
+            "mapping",
+            "data",
+            "products",
+            "hazard",
+            "understand"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "communities",
+            "homeowners",
+            "mortgage lenders",
+            "community officials",
+            "engineers",
+            "insurance professionals",
+            "property owners"
+        ],
+        "summary": "This initiative involves the use and update of FEMA flood maps and risk assessments to help communities, homeowners, and other stakeholders understand and manage flood risk, including processes for map amendments and revisions.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 11,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "police",
+            "vehicle",
+            "incident",
+            "reports",
+            "check",
+            "house",
+            "doors",
+            "windows",
+            "report",
+            "make"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "homeowners",
+            "victims of harassment",
+            "victims of identity theft",
+            "individuals with lost property",
+            "victims of phone scams",
+            "victims of stolen property",
+            "victims of property damage",
+            "victims of theft from vehicle",
+            "victims of vehicle damage"
+        ],
+        "summary": "The Chapel Hill Police Department offers services including house checks for residents out of town and a Virtual Report Unit for filing non-emergency police reports (e.g., harassment, identity theft, lost/stolen property, damage to property/vehicle) by phone, in-person, or online. Incident and arrest reports are also viewable online.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 12,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "str",
+            "operator",
+            "responsibility",
+            "strs",
+            "simultaneous",
+            "rentals",
+            "rental",
+            "minimum",
+            "primary",
+            "prohibited"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "STR operators",
+            "guests",
+            "property owners",
+            "nearby residents or businesses"
+        ],
+        "summary": "This initiative outlines the operational requirements for Short-Term Rentals (STRs) in Chapel Hill, including rules for simultaneous rentals (prohibited in dedicated STRs, permitted in primary residences if the operator is on-site), maximum overnight occupancy, designation of a local responsible party, compliance with noise and parking ordinances, special event permits, prohibition of advertising signs, payment of taxes, minimum rental age (18 for primary guest), minimum rental duration (18 hours), and limits on dedicated STR units in multi-family developments.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 13,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "proclaimed",
+            "proclamation",
+            "month",
+            "week",
+            "april",
+            "2026",
+            "encouraged",
+            "highlights",
+            "council",
+            "update"
+        ],
+        "budget_allocation": 318000.0,
+        "impacted_stakeholders": [
+            "Public Works staff",
+            "residents",
+            "Asian American and Pacific Islander population",
+            "organizations and individuals working on affordable housing",
+            "Community Home Trust",
+            "Blue Sky Robotics",
+            "community members"
+        ],
+        "summary": "Chapel Hill Council proclaimed May 2026 as Public Works Week, Asian American and Pacific Islander Month, Affordable Housing Month, and Historic Preservation Month, and June 18, 2026, as Community Home Trust Day, recognizing contributions and encouraging participation in related initiatives. The Council also received an update on the Climate Action Plan and approved a $318,000 economic development incentive package for Blue Sky Robotics based on job creation.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 14,
+        "primary_category": "climate action and clean energy",
+        "representation": [
+            "camille",
+            "elizabeth",
+            "university",
+            "environmental",
+            "served",
+            "melissa",
+            "school",
+            "children",
+            "family",
+            "2023"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community members"
+        ],
+        "summary": "Melissa McCullough, a Chapel Hill Council Member (2023-2027), has a background in environmental protection and sustainability, having worked for the US EPA and served on the Planning Commission, Environmental Stewardship Advisory Board, Orange County Climate Council, and Sierra Club, focusing on land use planning, water quality, air pollution, and community health.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 15,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "art",
+            "public",
+            "arts",
+            "shall",
+            "artwork",
+            "percent",
+            "capital",
+            "artist",
+            "program",
+            "life"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town Council",
+            "Public Arts Commission",
+            "artists",
+            "community members"
+        ],
+        "summary": "Chapel Hill is establishing a 'Percent for Public Art Program' for Town-funded capital improvement projects, where artwork location will generally be on the project site. The Town Council will annually consider a Public Art Plan recommended by the Public Arts Commission.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 16,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "historic",
+            "districts",
+            "district",
+            "standards",
+            "commission",
+            "principles",
+            "appropriateness",
+            "zoning",
+            "character",
+            "certificate"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "property owners",
+            "applicants",
+            "Historic District Commission",
+            "community members"
+        ],
+        "summary": "The Historic District Commission in Chapel Hill manages local historic districts and landmarks by enforcing the Chapel Hill Historic Districts Design Principles & Standards, which guide physical changes and determine the congruity of proposals with the districts' character. Property owners must obtain a Certificate of Appropriateness (COA) for projects, and the Commission holds quasi-judicial meetings for review.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 17,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "courts",
+            "tennis",
+            "park",
+            "cedar",
+            "falls",
+            "court",
+            "lights",
+            "bocce",
+            "pickleball",
+            "complete"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "park users",
+            "tennis players",
+            "community members"
+        ],
+        "summary": "Cedar Falls Park in Chapel Hill is undergoing improvements, including paving of the parking lot (expected July 2026) and reconstruction of tennis courts with new sustainable LED lighting, which are substantially complete and expected to open in summer 2026. The park offers athletic fields, a playground, and trails, and facilities can be rented.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 18,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "naming",
+            "committee",
+            "facilities",
+            "facility",
+            "recommendations",
+            "renaming",
+            "streets",
+            "rights",
+            "comments",
+            "names"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town Council",
+            "Naming Committee",
+            "public",
+            "advisory boards and commissions",
+            "donors",
+            "residents",
+            "developers",
+            "organizations"
+        ],
+        "summary": "Chapel Hill has established a Naming Committee, appointed by the Town Council, to manage the naming, renaming, or dedicating of Town facilities (buildings, parks, greenways, etc.) and residential streets. The process involves receiving public petitions, seeking ideas from community organizations, inviting public comments, and submitting recommendations to the Council. Separate policies exist for the sale of naming rights for portions of facilities and memorial markers at Peace and Justice Plaza.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 19,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "swim",
+            "water",
+            "child",
+            "skills",
+            "pool",
+            "adult",
+            "aquatic",
+            "bubbles",
+            "basic",
+            "children"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "children",
+            "parents"
+        ],
+        "summary": "Chapel Hill offers preschool aquatic programs for children aged 3-5, focusing on basic water skills, comfort in water, and developing independent aquatic locomotion. These programs cater to children with little or no prior water experience who can separate from parents, and build on fundamental skills like submerging heads and blowing bubbles.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 20,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "volunteer",
+            "background",
+            "volunteers",
+            "driving",
+            "register",
+            "checks",
+            "online",
+            "application",
+            "fingerprinting",
+            "ordered"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "volunteers",
+            "vulnerable populations",
+            "recreation specialists"
+        ],
+        "summary": "Chapel Hill outlines procedures for volunteers, including background and driving history checks for those working with vulnerable populations or driving for the town. Volunteers must complete an online application and agreement.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 21,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "rental",
+            "rentals",
+            "request",
+            "deposit",
+            "weeks",
+            "reservations",
+            "vary",
+            "advance",
+            "room",
+            "rate"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Council members",
+            "non-profit groups",
+            "public",
+            "facility renters",
+            "Finance Director",
+            "Manager's Office"
+        ],
+        "summary": "Chapel Hill outlines procedures for making reservations for Council members, including travel advances requiring two weeks for processing. The town also specifies a $100 security deposit for facility rentals, with exemptions for non-profit groups hosting public-benefiting, non-commercial programs.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 22,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "stream",
+            "verification",
+            "streams",
+            "classification",
+            "field",
+            "perennial",
+            "determination",
+            "intermittent",
+            "site",
+            "rcd"
+        ],
+        "budget_allocation": 0.0,
+        "impacted_stakeholders": [
+            "property owners",
+            "Town stream ecologist",
+            "Town staff",
+            "licensed Land Surveyor",
+            "Stormwater Management Division",
+            "Town Planners",
+            "applicants for development"
+        ],
+        "summary": "Chapel Hill provides a free stream determination service to classify streams (perennial, intermittent, ephemeral) and waterbodies on properties using State and Town criteria. This classification helps determine Resource Conservation District (RCD) boundaries. Property owners can request a determination, and surveyors can delineate RCDs based on the report. Field verifications are valid for 5 years, and disagreements with classifications can be appealed.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 23,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "impervious",
+            "fee",
+            "unit",
+            "total",
+            "square",
+            "surface",
+            "association",
+            "surfaces",
+            "common",
+            "interior"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "unit owners",
+            "associations",
+            "developers"
+        ],
+        "summary": "Chapel Hill outlines methods for billing impervious surface fees for developments, allowing for proportional billing based on interior floor area or shared billing where associations pay for common areas and unit owners for private property. Clear delineation of common areas is required for shared billing.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 24,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "services",
+            "architectural",
+            "engineering",
+            "work",
+            "contracts",
+            "provide",
+            "scope",
+            "firm",
+            "best",
+            "selection"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "firms",
+            "individuals",
+            "Town"
+        ],
+        "summary": "Chapel Hill has a policy to select the most suitable firms or individuals to provide professional architectural and engineering services to the Town. The selection is based on demonstrated competence and qualifications to meet the required scope of services, under contractual or performance agreements.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 25,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "event",
+            "events",
+            "nearby",
+            "businesses",
+            "permits",
+            "publicly",
+            "advertised",
+            "special",
+            "outdoor",
+            "residents"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "businesses",
+            "event organizers",
+            "public"
+        ],
+        "summary": "Chapel Hill requires special event permits for outdoor events on public property (parks, sidewalks, streets, parking lots) and for events on private property if they impact nearby residents or businesses, are publicly advertised, or are near a public street/parking lot.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 26,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "parking",
+            "starts",
+            "express",
+            "heel",
+            "game",
+            "tar",
+            "service",
+            "stadium",
+            "football",
+            "basketball"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "fans",
+            "UNC-Chapel Hill",
+            "public transit users",
+            "residents"
+        ],
+        "summary": "Chapel Hill Transit operates the 'Tar Heel Express' shuttle service for fans attending UNC-Chapel Hill home football and men's basketball games, and other major campus events. The service provides continuous transportation from Park and Ride lots and downtown Chapel Hill, with passes costing $10 per person (kids 5 and under free).",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 27,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "parks",
+            "recreation",
+            "june",
+            "hours",
+            "july",
+            "facilities",
+            "monday",
+            "community",
+            "published",
+            "beginning"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community members",
+            "taxpayers"
+        ],
+        "summary": "Chapel Hill Parks and Recreation will adjust facility operating hours starting July 6 to align with community usage and ensure responsible use of taxpayer dollars. Additionally, the Chapel Hill Community Center is set to reopen June 1 after HVAC system replacement.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 28,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "consecutive",
+            "board",
+            "terms",
+            "absence",
+            "shall",
+            "serve",
+            "commission",
+            "case",
+            "term",
+            "member"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "board members",
+            "commission members",
+            "committee members",
+            "Council",
+            "Orange County Board of Commissioners",
+            "Mayor",
+            "Town Clerk"
+        ],
+        "summary": "Chapel Hill has policies regarding advisory board and commission member attendance, leave of absence, and term limits. Members missing three consecutive meetings or over half in a year will be replaced. Leave of absence requires Council approval and cannot exceed five months. Members generally serve no more than two consecutive full terms (three for Board of Adjustment), with eligibility to serve again after a one-year absence.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 29,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "internship",
+            "thorpe",
+            "undergraduate",
+            "program",
+            "interns",
+            "attend",
+            "mayor",
+            "human",
+            "internships",
+            "elected"
+        ],
+        "budget_allocation": 2500.0,
+        "impacted_stakeholders": [
+            "students",
+            "undergraduate interns",
+            "Mayor's Office",
+            "Town leadership",
+            "Town departments",
+            "residents",
+            "elected officials",
+            "local businesses",
+            "community groups and organizations",
+            "federal and state agencies",
+            "Town staff"
+        ],
+        "summary": "Chapel Hill offers paid internship opportunities, including the Bill Thorpe Undergraduate Internship Program (up to $2500 compensation) and the Mayor's Internship program (up to $1000 per semester). These programs aim to provide students with real-world experience in local government, working with town leadership and departments, and contributing to the community.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 30,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "2026",
+            "commissions",
+            "meetings",
+            "boards",
+            "adjustment",
+            "aug",
+            "regarding",
+            "cases",
+            "planning",
+            "community"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town Council",
+            "Town staff",
+            "Residents",
+            "Developers"
+        ],
+        "summary": "This initiative details the scheduling and functions of various Chapel Hill town boards and commissions, including the Community Design Commission, Board of Adjustment, Historic District Commission, Criminal Justice Debt Program Advisory Committee, and Planning Commission, outlining their roles in guiding development, land use, and community character through meetings in 2026.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 31,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "transit",
+            "advertising",
+            "transportation",
+            "streets",
+            "chapel",
+            "hill",
+            "spontaneous",
+            "route",
+            "buses",
+            "stops"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Commuters",
+            "Businesses (advertisers)",
+            "Town Council"
+        ],
+        "summary": "Chapel Hill's transit initiative covers fare-free bus services, real-time bus tracking, and transit advertising to offset operating costs. It also includes policies on public street usage, prioritizing safe vehicular traffic flow over unauthorized spontaneous events.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 32,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "fees",
+            "affordable",
+            "units",
+            "waived",
+            "refund",
+            "development",
+            "waiver",
+            "fee",
+            "waivers",
+            "refunds"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Developers",
+            "Low-income residents",
+            "Non-profit organizations",
+            "Town staff"
+        ],
+        "summary": "Chapel Hill offers fee waivers and pro-rata refunds for planning review fees for affordable housing units in development projects, contingent on an Affordable Housing Performance Agreement. Waivers also extend to public projects and non-profit service projects.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 33,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "debt",
+            "criminal",
+            "justice",
+            "crisis",
+            "fees",
+            "costs",
+            "program",
+            "court",
+            "restoration",
+            "stability"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Indigent residents",
+            "Chapel Hill Police Crisis Unit",
+            "Criminal Justice Debt Program Advisory Committee"
+        ],
+        "summary": "Chapel Hill's Criminal Justice Debt Program, in partnership with the Police Crisis Unit, assists eligible indigent Orange County residents with post-conviction court fees, deferred prosecution costs, and NCDMV license restoration fees to support stability and community reintegration.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 34,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "fee",
+            "schedule",
+            "schedules",
+            "dept",
+            "culture",
+            "services",
+            "user",
+            "library",
+            "annually"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Businesses",
+            "Town Council",
+            "Town departments"
+        ],
+        "summary": "Chapel Hill annually establishes and publishes user fee policies, fee schedules, and facility use policies for various Town services, including business permits, planning, transit, building development, parks and recreation, public works, police, fire, parking, and arts and culture.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 35,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "investigating",
+            "rescue",
+            "redbud",
+            "lane",
+            "cause",
+            "road",
+            "house",
+            "firefighters",
+            "honeysuckle",
+            "injuries"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Chapel Hill Fire Rescue personnel"
+        ],
+        "summary": "Chapel Hill Fire Rescue is investigating a house fire on Redbud Lane that resulted in one fatality. The investigation is ongoing to determine the fire's cause and the victim's identity.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 36,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "learn",
+            "construction",
+            "permits",
+            "inspection",
+            "residential",
+            "enforcement",
+            "projects",
+            "review",
+            "permit",
+            "departments"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Developers",
+            "Property owners",
+            "Businesses",
+            "Residents",
+            "Town staff"
+        ],
+        "summary": "Chapel Hill provides resources for residential and commercial building permits and inspections, code enforcement, business services, active development project information, planning and zoning resources, and stormwater construction regulations.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 37,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "seeking",
+            "qualified",
+            "janitorial",
+            "services",
+            "transit",
+            "chapel",
+            "hill",
+            "summary",
+            "bids",
+            "companies"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Contracting companies",
+            "Chapel Hill Transit",
+            "Parks and Recreation users",
+            "Town staff"
+        ],
+        "summary": "Chapel Hill is soliciting statements of qualifications from firms for consulting services on the Bus Rapid Transit project and proposals from companies for janitorial services at multiple Parks and Recreation facilities.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 38,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "coaching",
+            "volunteer",
+            "coach",
+            "athletics",
+            "coaches",
+            "online",
+            "application",
+            "leagues",
+            "interested",
+            "administered"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Youth athletes",
+            "Volunteer coaches",
+            "Community members"
+        ],
+        "summary": "Chapel Hill's athletics leagues depend on volunteer coaches, and the Town invites individuals passionate about youth sports to apply for coaching positions to ensure the leagues' success.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 39,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "motion",
+            "main",
+            "vote",
+            "stated",
+            "table",
+            "chair",
+            "order",
+            "second",
+            "adjourn",
+            "reconsider"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town Council members",
+            "Town staff"
+        ],
+        "summary": "Chapel Hill's Town Council follows parliamentary procedures for deliberations, outlining rules for various motions (main, subsidiary, amend, substitute, reconsider, adjourn), voting, and appeals to ensure orderly meetings and fair decision-making.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 40,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "flood",
+            "insurance",
+            "elevation",
+            "floodplain",
+            "damage",
+            "maps",
+            "stormwater",
+            "rates",
+            "flooding",
+            "base"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Property owners",
+            "Real estate agents",
+            "Developers",
+            "Insurance companies",
+            "Town staff"
+        ],
+        "summary": "Chapel Hill implements a Flood Damage Prevention Ordinance requiring structures in floodplains to be elevated at least two feet above base flood elevation to reduce damage and potentially lower flood insurance rates. The town provides information on flood risks, FEMA maps, and offers assistance with Letters of Map Change and elevation certificates. It also maintains a Hazard Mitigation Plan to reduce property damage from natural disasters and ensures eligibility for state and federal mitigation funds.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 41,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "rcd",
+            "stream",
+            "streams",
+            "property",
+            "determination",
+            "perennial",
+            "conservation",
+            "resource",
+            "floodplain",
+            "district"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Property owners",
+            "Developers",
+            "Residents",
+            "Town Planning Department",
+            "Stormwater Management Division",
+            "Surveyors"
+        ],
+        "summary": "Chapel Hill enforces Resource Conservation Districts (RCDs) as an overlay zoning district to protect stream corridors, preserve water quality, minimize flood damage, and prevent erosion. RCD provisions limit structures and development within streamside buffer areas. The town provides a process for stream determination and RCD boundary delineation, with specific regulations for building activities within RCDs and FEMA regulatory floodplains, including requirements for permits and potential variances.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 42,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "financial",
+            "quarterly",
+            "budgets",
+            "reports",
+            "budget",
+            "debt",
+            "schedules",
+            "annual",
+            "transparency",
+            "accountability"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Taxpayers",
+            "Town Council",
+            "Town departments",
+            "Financial stakeholders"
+        ],
+        "summary": "Chapel Hill maintains a commitment to financial transparency and accountability by providing public access to annual budgets, financial reports, quarterly updates, fee schedules, capital improvements program, and debt management information. These resources inform residents about public fund allocation and management.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 43,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "2026",
+            "july",
+            "04",
+            "june",
+            "jul",
+            "community",
+            "food",
+            "night",
+            "helps",
+            "4th"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Commuters",
+            "Parks and Recreation users",
+            "Community members",
+            "Law enforcement",
+            "NCDOT"
+        ],
+        "summary": "Chapel Hill is engaged in several ongoing community initiatives and projects, including the Bus Rapid Transit upgrade to improve transportation, the Vision Zero Chapel Hill initiative for road safety and equitable mobility, and the Everywhere-to-Everywhere Greenways Feasibility Study to create a safer, more connected town. Other activities include adjusting Parks and Recreation facility hours, community food distribution, and celebrating civic events.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 44,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "donations",
+            "gifts",
+            "labels",
+            "acknowledgment",
+            "issued",
+            "policy",
+            "text",
+            "specified",
+            "cash",
+            "donors"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Donors",
+            "Town Council",
+            "Town Manager",
+            "Town departments",
+            "Community organizations"
+        ],
+        "summary": "Chapel Hill has a uniform policy for accepting gifts and donations, distinguishing between those requiring Town Council approval (e.g., real estate, personal property with significant expenditure, restricted cash for non-current operating plans) and those the Town Manager can accept (e.g., unrestricted cash, cash for specified programs in current operating plans). The policy also outlines guidelines for donor acknowledgment labels.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 45,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "clerk",
+            "applications",
+            "vacancy",
+            "appointments",
+            "vacancies",
+            "board",
+            "commission",
+            "recommendation",
+            "eligibility",
+            "forward"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Applicants for advisory boards/commissions",
+            "Current board/commission members",
+            "Town Council",
+            "Town Clerk",
+            "Residents"
+        ],
+        "summary": "Chapel Hill has established an application and appointment process for its advisory boards and commissions. The Town Clerk manages applications, advertises vacancies, and verifies eligibility. Boards and commissions review applicants and recommend candidates to the Town Council, which makes final appointments in open meetings, with provisions for filling mid-term vacancies and handling applications received after deadlines.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 46,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "hearings",
+            "hearing",
+            "public",
+            "oath",
+            "notice",
+            "evidence",
+            "subject",
+            "examination",
+            "special",
+            "witnesses"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Public",
+            "Residents",
+            "Applicants for zoning changes/permits",
+            "Town Council",
+            "Town staff",
+            "Witnesses"
+        ],
+        "summary": "Chapel Hill conducts public hearings to gather input on various matters, including zoning changes, subdivision applications, and special use permits. Procedures are established for giving public notice, the format of hearings, and requirements for testimony under oath, especially for quasi-judicial matters like special use and subdivision hearings, where decisions are based solely on sworn evidence presented.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 47,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "county",
+            "register",
+            "deeds",
+            "durham",
+            "property",
+            "search",
+            "orange",
+            "pin",
+            "address",
+            "elections"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Property owners",
+            "Real estate agents",
+            "Surveyors",
+            "Legal professionals",
+            "Residents"
+        ],
+        "summary": "Chapel Hill provides guidance to residents on how to access property information through the Register of Deeds in Orange and Durham Counties. This includes instructions for searching property identification numbers (PINs) and addresses using county GIS mapping systems and public databases for property records.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 48,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "session",
+            "closed",
+            "taken",
+            "action",
+            "law",
+            "open",
+            "attorney",
+            "sessions",
+            "inspection",
+            "decisions"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town Council",
+            "Town Attorney",
+            "Town staff",
+            "Public"
+        ],
+        "summary": "Chapel Hill follows specific procedures for holding closed sessions as permitted by the Open Meetings Law. These sessions are limited to discussions on topics such as consulting with the Town's attorney, negotiating real property acquisition, or considering employee performance. While some actions can be taken in closed session, final actions are generally required in open session, and minutes are kept, though they may be withheld from public inspection under certain conditions.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 49,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "ballots",
+            "ballot",
+            "voting",
+            "appointments",
+            "clerk",
+            "results",
+            "appointment",
+            "advisory",
+            "body",
+            "vote"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town Council",
+            "Applicants for advisory boards/commissions",
+            "Town Clerk"
+        ],
+        "summary": "Chapel Hill Council's practice for making appointments to boards and commissions involves voting by signed written ballot, as required by North Carolina Law. The Town Clerk manages the ballot process, tabulates votes, and announces results in open meetings. Ballots are available for public inspection, and procedures are in place for tie votes or insufficient votes, allowing for re-voting or delayed appointments.",
+        "related_doc_count": 3
+    }
+]

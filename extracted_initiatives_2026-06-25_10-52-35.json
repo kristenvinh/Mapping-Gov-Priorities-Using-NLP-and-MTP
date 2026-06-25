@@ -1,0 +1,1309 @@
+[
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 50,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "climbing",
+            "wall",
+            "belay",
+            "belayers",
+            "center",
+            "old",
+            "indoor",
+            "solo",
+            "attendant",
+            "beginners"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community members",
+            "climbers",
+            "children",
+            "parents",
+            "belayers"
+        ],
+        "summary": "Chapel Hill's Community Center offers an indoor climbing wall with over 40 routes and a bouldering section for all skill levels, from beginners to experts. The facility is open to individuals six years and older and provides attendants, equipment rental, and requires belay testing for safety. Climbers under 18 need a signed release form.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 51,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "permit",
+            "email",
+            "steps",
+            "applicant",
+            "notifications",
+            "online",
+            "turn",
+            "center",
+            "process",
+            "status"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "applicants",
+            "homeowners",
+            "contractors",
+            "developers",
+            "Town staff"
+        ],
+        "summary": "The Chapel Hill Online Permit Center automatically sends email notifications to applicants for each step in the permit process, including inspections. While there's no option to turn off these notifications currently, applicants can check permit status via their user dashboard and contact the Town for assistance. Fees for building permits are due after administrative review, and trade-only permits are due upon issuance.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 52,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "community",
+            "webinar",
+            "virtual",
+            "aesthetics",
+            "advocacy",
+            "design",
+            "guiding",
+            "function",
+            "advice",
+            "key"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Community Design Commission members",
+            "Council members",
+            "public",
+            "developers",
+            "residents"
+        ],
+        "summary": "The Chapel Hill Community Design Commission, which meets virtually, advises the Town Council on aesthetics, character, and function to guide community growth. It provides advice and advocacy, implements Council policies, and reviews proposed development in key areas of the community.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 53,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "older",
+            "years",
+            "age",
+            "children",
+            "16",
+            "15",
+            "background",
+            "14",
+            "18",
+            "ages"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "children",
+            "parents",
+            "volunteers",
+            "community organizations"
+        ],
+        "summary": "Chapel Hill outlines age requirements for various activities, including limits on the number of children in different age groups (birth to 13 years) and volunteer age requirements. Volunteers aged 14-15 require three references, and those 16 and older require a background check.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 54,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "ordinance",
+            "vote",
+            "franchise",
+            "majority",
+            "legislative",
+            "amending",
+            "voting",
+            "bond",
+            "tie",
+            "simple"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town Council",
+            "residents",
+            "property owners",
+            "businesses",
+            "town staff"
+        ],
+        "summary": "Chapel Hill's legislative procedures dictate voting requirements for ordinances. General ordinances require a two-thirds vote for immediate enactment or a simple majority at a second reading. Budget ordinances and amendments to development regulations can be adopted by a simple majority. Franchise ordinances need approval by a five-vote majority at two regular meetings. Specific rules apply to tie votes and abstentions by Council members.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Chapel Hill",
+        "topic_id": 55,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "arnold",
+            "housing",
+            "alicia",
+            "director",
+            "news",
+            "affordable",
+            "community",
+            "development",
+            "pleased",
+            "wake"
+        ],
+        "budget_allocation": 5000000.0,
+        "impacted_stakeholders": [
+            "residents",
+            "unhoused community members",
+            "vulnerable residents",
+            "Town staff",
+            "Housing & Community Development Department"
+        ],
+        "summary": "Alicia Arnold has been appointed as the new Director of Housing & Community Development for Chapel Hill. She will oversee initiatives to expand affordable housing access, strengthen services for unhoused community members, and manage the town's affordable housing plan, investment strategy, public housing communities, and community development funding programs, including over $5 million in federal and local funding.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 0,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "stormwater",
+            "assessment",
+            "assistance",
+            "property",
+            "program",
+            "residential",
+            "cost",
+            "watershed",
+            "water",
+            "resilience"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Carrboro homeowners",
+            "residents",
+            "property owners",
+            "environment",
+            "local streams"
+        ],
+        "summary": "Carrboro's Watershed Residential Assistance Program (WRAP) offers free stormwater site assessments to single-family homeowners to improve water management on their properties. The program aims to reduce runoff, slow erosion, improve water quality, protect streams, and enhance community resilience to stormwater challenges. Recommendations include nature-based practices, and homeowners may qualify for technical assistance and cost-sharing for eligible projects.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 1,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "festival",
+            "music",
+            "musicians",
+            "cotten",
+            "performers",
+            "sound",
+            "application",
+            "blues",
+            "elizabeth",
+            "guitar"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "local musicians",
+            "performers",
+            "community members",
+            "festival attendees",
+            "Town of Carrboro"
+        ],
+        "summary": "The Carrboro Music Festival is an annual event celebrating local musicians from the Carrboro, Chapel Hill, and Orange County areas, as well as surrounding counties. Performers apply to participate and receive a $250 honorarium if selected. The festival, scheduled for September 27, 2026, provides sound systems at many venues, and musicians are encouraged to sell merchandise.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 2,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "human",
+            "leadership",
+            "foushee",
+            "black",
+            "resources",
+            "pegues",
+            "barbara",
+            "director",
+            "news",
+            "carrboro"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town of Carrboro employees",
+            "Town leadership",
+            "community members"
+        ],
+        "summary": "Latasha 'Tasha' Pegues has been selected as the new Human Resources Director for the Town of Carrboro, starting June 29, 2026. With over 23 years of experience in public sector HR, Pegues will focus on strengthening the workforce, advancing a diverse and supportive workplace culture, investing in employee development, and supporting the Town's mission and strategic priorities.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 3,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "parking",
+            "towing",
+            "lot",
+            "tow",
+            "lots",
+            "private",
+            "mall",
+            "public",
+            "state",
+            "court"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "drivers",
+            "residents",
+            "visitors",
+            "businesses",
+            "property owners",
+            "Police Department"
+        ],
+        "summary": "Carrboro addresses various parking and towing regulations. Public parking lots generally do not allow overnight parking. The Town is implementing a wayfinding program for public parking. Private lots, like Carr Mill Mall, are for specific uses and can tow non-compliant vehicles, provided they adhere to State statutes and Town ordinances regarding signage, notification to Police, and payment acceptance. The Town Police Department investigates complaints about improper towing.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 4,
+        "primary_category": "climate action and clean energy",
+        "representation": [
+            "climate",
+            "ccap",
+            "action",
+            "ecpp",
+            "update",
+            "energy",
+            "emissions",
+            "greenhouse",
+            "gas",
+            "change"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Black, Indigenous, and People of Color",
+            "low-income communities",
+            "residents",
+            "businesses",
+            "Town staff/departments"
+        ],
+        "summary": "The Town of Carrboro is a national leader in climate action, aiming for an 80% reduction in community-wide and municipal greenhouse gas emissions by 2030, compared to a 2010 baseline. Key objectives include increasing energy efficiency in Town buildings, electrifying the Town fleet, adding renewable energy to facilities, increasing access to renewable energy and efficiency programs for residents and businesses, encouraging environmentally friendly transportation, reducing waste, and developing a system-wide approach to build resilience to climate change impacts, particularly for low-income and historically marginalized neighborhoods.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 5,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "survey",
+            "report",
+            "summary",
+            "carrboro",
+            "community",
+            "results",
+            "biennial",
+            "town",
+            "98",
+            "census"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "community members",
+            "Town of Carrboro administration"
+        ],
+        "summary": "Carrboro conducts biennial community surveys to assess resident satisfaction with the quality of life, services, and overall experience in the town. Results from recent surveys (e.g., 2026, 2024) consistently show high resident satisfaction, with nearly all (98%) residents rating Carrboro as 'excellent' or 'good' as a place to live, raise children, and feel welcome. Carrboro often outperforms regional and national benchmarks in these surveys.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 6,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "concrete",
+            "construction",
+            "building",
+            "floor",
+            "begin",
+            "site",
+            "installed",
+            "deck",
+            "roof",
+            "crews"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "construction crews",
+            "local businesses",
+            "drivers"
+        ],
+        "summary": "Construction for 'The 203 Project,' a new library and civic building with an associated parking deck in Carrboro, is ongoing. The project involves significant concrete pours for the structure and parking deck, interior construction, and exterior finishing like brick veneer. Temporary road closures and traffic impacts are expected during certain phases of the work, which is projected to be completed next summer.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 7,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "land",
+            "zoning",
+            "use",
+            "ordinance",
+            "development",
+            "text",
+            "amendments",
+            "associated",
+            "uses",
+            "zone"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "developers",
+            "residents",
+            "Town Council",
+            "Town Advisory Boards/Commissions"
+        ],
+        "summary": "The Zoning Division is responsible for assisting the Town Council and advisory boards, processing permits, reviewing development proposals for compliance with the Land Use Ordinance, and providing public information. Recent initiatives include public hearings and approval of Land Use Ordinance Text Amendments to modify standards related to height, residential density, and non-residential uses in the R-2 conditional district, specifically for a five-story multi-family residential project at 1307 West Main Street.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 8,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "911",
+            "officers",
+            "emergency",
+            "county",
+            "police",
+            "orange",
+            "storm",
+            "calling",
+            "alert",
+            "alerts"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "citizens",
+            "businesses",
+            "residents"
+        ],
+        "summary": "The Carrboro Police Department provides 24/7 law enforcement and community services, employing 43 people, including 39 sworn officers. They handle emergency and non-emergency situations, dispatching officers through Orange County Communications (911 call center). The department also offers an email alert system for criminal activity and participates in OCAlerts to notify residents about major incidents.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 9,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "news",
+            "resurfacing",
+            "posted",
+            "june",
+            "2026",
+            "pavement",
+            "project",
+            "street",
+            "new",
+            "intended"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "drivers",
+            "cyclists",
+            "pedestrians",
+            "emergency services",
+            "Public Works"
+        ],
+        "summary": "The Town of Carrboro recently completed the repaving of E. Poplar Street as part of its annual resurfacing project. The improvements include new striping with sharrow symbols, indicating shared use for cars and bicycles, and a wider buffered shoulder to enhance safety for pedestrians. The design aims to balance the needs of all road users, emergency services, and public works operations. The project was funded by the NC Department of Transportation.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 10,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "safety",
+            "groups",
+            "risk",
+            "request",
+            "education",
+            "come",
+            "community",
+            "station",
+            "reduction",
+            "department"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community members",
+            "residents",
+            "children",
+            "businesses",
+            "school classes",
+            "youth groups"
+        ],
+        "summary": "The Carrboro Fire-Rescue Department offers a comprehensive Community Risk Reduction program to promote greater fire safety. Services include fire truck visits for community events, child car seat installation checks, courtesy home inspections, fire extinguisher classes for groups, smoke and/or carbon monoxide alarm installation assistance, public education events, and station tours.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 11,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "language",
+            "languages",
+            "interpretation",
+            "access",
+            "translation",
+            "spoken",
+            "documents",
+            "translate",
+            "spanish",
+            "townwide"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Carrboro residents with limited English proficiency",
+            "Town staff",
+            "community members"
+        ],
+        "summary": "The Town of Carrboro adopted a Language Access Plan in April 2024 to ensure timely access to translation and interpretation services for its residents. The plan requires the Town to make best efforts to provide these services, translate its most commonly distributed documents into six designated townwide languages (Spanish, Chinese, Korean, Karen, Burmese, and Arabic, with an initial focus on Spanish), and post signage about the availability of free interpretation services. Residents can file complaints if language services are not received.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 12,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "carrboro",
+            "news",
+            "posted",
+            "town",
+            "2026",
+            "linkedin",
+            "bluesky",
+            "instagram",
+            "nextdoor",
+            "facebook"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "community members"
+        ],
+        "summary": "The Town of Carrboro actively uses official social media channels, including Facebook, Instagram, Bluesky, Nextdoor, YouTube, and LinkedIn, to disseminate news, events, and updates to the community. These platforms are used by the Town of Carrboro, its Police and Fire-Rescue Departments, and for promoting various cultural and local events.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 13,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "motion",
+            "art",
+            "friday",
+            "enjoy",
+            "2nd",
+            "walk",
+            "mural",
+            "carrboro",
+            "exhibitions",
+            "folleto"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "artists",
+            "community members"
+        ],
+        "summary": "Carrboro promotes local arts and culture through initiatives such as the '2nd Friday Art Walk' and various art exhibitions. These events provide opportunities for residents to engage with public art, including murals, and enjoy the town's vibrant cultural scene.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 14,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "work",
+            "construction",
+            "building",
+            "concrete",
+            "street",
+            "library",
+            "installed",
+            "greensboro",
+            "project",
+            "parking deck"
+        ],
+        "budget_allocation": 42000000.0,
+        "impacted_stakeholders": [
+            "residents",
+            "local businesses",
+            "Orange County government",
+            "public transit users",
+            "cyclists",
+            "pedestrians",
+            "library patrons",
+            "youth",
+            "community organizations"
+        ],
+        "summary": "Construction of the Drakeford Library Complex at 203 S. Greensboro Street, a $42 million public facility in Carrboro. It will house the Orange County Southern Branch Library, Carrboro Recreation, Parks and Cultural Resources, Orange County Skills Development Center, WCOM Radio, a teen center, and multipurpose spaces. The LEED Gold equivalent building will feature a 171-space parking deck (including EV charging) and 70 bike spots, along with stormwater control measures. The project, a joint effort with Orange County, is expected to open in February 2025.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 15,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "equity",
+            "race",
+            "racial",
+            "voting",
+            "shall",
+            "truth",
+            "plaque",
+            "reap",
+            "liaison",
+            "member"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "BIPOC community",
+            "Town Council",
+            "Town staff",
+            "community organizations"
+        ],
+        "summary": "Establishment and ongoing work of the Racial Equity Commission (REC) in Carrboro, formed in 2017 with the Carrboro Truth Plaque Community Task Force (merged Dec 2024). The REC educates on historical racism, amplifies BIPOC voices, and influences policy to prioritize equity and justice, aiming for a community of inclusiveness. Members are appointed by the Town Council and receive race and equity training. It also involves the installation of truth plaques, acknowledging Carrboro's past.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 16,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "school",
+            "shall",
+            "committee",
+            "elementary",
+            "members",
+            "routes",
+            "student",
+            "enrolled",
+            "schools",
+            "safe"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "students",
+            "parents",
+            "schools",
+            "local government",
+            "transportation agencies",
+            "residents"
+        ],
+        "summary": "Creation of the Safe Routes to School Implementation Committee in Carrboro, composed of ten voting members and three non-voting youth advisory members. The committee recommends transportation projects, policies, programs, and activities to increase the safety and convenience of walking and bicycling to elementary and middle schools within Town limits. It also provides guidance for implementing the Safe Routes to School Action Plan and assists with funding efforts.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 17,
+        "primary_category": "job creation and business support",
+        "representation": [
+            "tourism",
+            "business",
+            "businesses",
+            "development",
+            "small",
+            "authority",
+            "economic",
+            "support",
+            "celebration",
+            "tax"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "local businesses",
+            "entrepreneurs",
+            "residents",
+            "Tourism Development Authority"
+        ],
+        "summary": "Carrboro's Economic Development initiatives focus on supporting the local business community, particularly locally owned businesses. This includes offering two revolving loan programs to promote job creation, business retention, and energy efficiency. The department also staffs the Carrboro Tourism Development Authority and celebrates Small Business Week to highlight the contributions of local entrepreneurs.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 18,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "shall",
+            "voting",
+            "member",
+            "liaison",
+            "members",
+            "selected",
+            "appointed",
+            "housing",
+            "older",
+            "non"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town Council",
+            "advisory commission members",
+            "Town staff",
+            "youth"
+        ],
+        "summary": "Carrboro's policy regarding the composition and appointment of members to various advisory commissions, including the Housing and Human Services Advisory Commission and the Youth Council. This involves appointing voting and non-voting liaison members from the Town Council, Town staff, and other advisory bodies to ensure diverse representation and expertise in town governance.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 19,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "advisory",
+            "boards",
+            "board",
+            "chair",
+            "commissions",
+            "task",
+            "video",
+            "force",
+            "training",
+            "serve"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "community volunteers",
+            "Town Council",
+            "Town staff"
+        ],
+        "summary": "Carrboro's policy for the recruitment, appointment, and operation of its various advisory boards and commissions. Citizens apply to serve, attend meetings, and are appointed by the Town Council. These volunteers play a vital role in interpreting town codes, advising elected officials, and addressing citizen appeals. The policy also includes rules of procedure, recruitment policies, and mandatory training for new members.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 20,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "awards",
+            "communications",
+            "nc3c",
+            "excellence",
+            "award",
+            "communicators",
+            "greene",
+            "engagement",
+            "photography",
+            "evelyn"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "Town staff",
+            "community members"
+        ],
+        "summary": "Recognition of the Town of Carrboro's Communications and Engagement Department for excellence in communications through the North Carolina City & County Communicators (NC3C) awards. The town received awards for photography, graphic design (bus wrap), and crisis communications (Tropical Storm Chantal response), demonstrating its commitment to keeping residents informed, engaged, and connected through timely and compassionate public information efforts.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 21,
+        "primary_category": "climate action and clean energy",
+        "representation": [
+            "directory",
+            "environmental",
+            "title",
+            "return",
+            "edit",
+            "climate",
+            "commission",
+            "live",
+            "advisory",
+            "member"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents interested in environmental issues",
+            "Town Council",
+            "Town staff"
+        ],
+        "summary": "The Climate and Environmental Advisory Commission in Carrboro includes members like Nicholas Stover, Robert Pinder, and Lauren Nyland, who serve to advise the town on climate and environmental matters. This initiative highlights the town's commitment to involving community members in environmental policy and planning.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 22,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "snow",
+            "winter",
+            "weather",
+            "ice",
+            "streets",
+            "roadway",
+            "forecast",
+            "accumulations",
+            "maintained",
+            "works"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "commuters",
+            "emergency services",
+            "schools"
+        ],
+        "summary": "Carrboro's Public Works Department implements a Roadway Hazard Reduction Program to respond to winter weather, reducing hazards from ice and snow on Town-maintained streets, facilities, bike paths, sidewalks, and parking lots. Streets are prioritized based on traffic volume, transit routes, essential services, and proximity to schools, with a commitment to effectively utilize town and, if needed, contractor resources.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 23,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "budget",
+            "operating",
+            "fiscal",
+            "annual",
+            "year",
+            "tax",
+            "balanced",
+            "fy",
+            "manager",
+            "june"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "Town Council",
+            "Town staff",
+            "taxpayers"
+        ],
+        "summary": "Carrboro's annual operating budget process ensures a balanced budget is adopted by June 30 each year for the upcoming fiscal year (July 1 - June 30). The Town Manager recommends a budget, which then undergoes public hearings and work sessions with the Mayor and Town Council for review and adjustments before final approval, setting tax rates and fee schedules for Town operations.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 24,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "bicycle",
+            "signal",
+            "detection",
+            "intersections",
+            "waiting",
+            "cyclists",
+            "loops",
+            "controller",
+            "systems",
+            "news"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "cyclists",
+            "drivers",
+            "local residents"
+        ],
+        "summary": "Installation of bicycle detection systems at four signalized intersections to improve safety and reduce delays for cyclists by triggering traffic signals.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 25,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "proclamation",
+            "day",
+            "month",
+            "week",
+            "2019",
+            "2023",
+            "awareness",
+            "2025",
+            "2024",
+            "2020"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "all residents",
+            "various community groups"
+        ],
+        "summary": "Issuance of various proclamations and resolutions throughout the year to recognize and celebrate diverse community events, awareness campaigns, and historical observances, reflecting town governance and community engagement.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 26,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "directory",
+            "title",
+            "return",
+            "housing",
+            "edit",
+            "human",
+            "live",
+            "commission",
+            "member",
+            "services"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Housing and Human Services Commission members",
+            "residents seeking housing/human services"
+        ],
+        "summary": "Listing of members of the Housing and Human Services Commission within the Town Directory, indicating focus on housing and human services initiatives.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 27,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "history",
+            "black",
+            "celebrate",
+            "events",
+            "people",
+            "contributions",
+            "month",
+            "lives",
+            "celebrating",
+            "african"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Black community members",
+            "all residents of Carrboro"
+        ],
+        "summary": "Recognition and celebration of Black History Month through local events, promoting learning about the lives, history, and contributions of Black people, and advancing racial equity in Carrboro.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 28,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "events",
+            "newsletter",
+            "programs",
+            "monthly",
+            "registration",
+            "exciting",
+            "discover",
+            "special",
+            "coming",
+            "parks"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community members",
+            "residents interested in recreational and cultural activities"
+        ],
+        "summary": "Monthly events newsletter from the Recreation, Parks & Cultural Resources Department to inform residents about upcoming programs and special events, with registration details.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 29,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "police",
+            "officers",
+            "department",
+            "criminal",
+            "crisis",
+            "employees",
+            "training",
+            "officer",
+            "service",
+            "offenses"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "visitors",
+            "local businesses",
+            "community organizations",
+            "law enforcement officers"
+        ],
+        "summary": "Celebration of Police Week and Peace Officers Memorial Day, recognizing the Carrboro Police Department's role in public safety, crime investigation, community services, ongoing training, and crisis response, including the hiring of social workers to deflect low-level offenses.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 30,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "traffic",
+            "work",
+            "street",
+            "maple",
+            "roberson",
+            "concrete",
+            "avenue",
+            "site",
+            "greensboro",
+            "expect"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "drivers",
+            "Maple Avenue residents",
+            "Roberson Street residents",
+            "local businesses",
+            "commuters"
+        ],
+        "summary": "Updates on utility work by Duke Energy and concrete pours affecting traffic on Roberson Street, S. Greensboro Street, and Maple Avenue, with detours and intermittent delays expected around a construction site.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 31,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "transgender",
+            "people",
+            "gender",
+            "trans",
+            "murder",
+            "killed",
+            "far",
+            "states",
+            "violent",
+            "selves"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "transgender community members",
+            "LGBTQ community",
+            "all residents"
+        ],
+        "summary": "Proclamation of Transgender Day of Remembrance in Carrboro, honoring lives lost to violence against transgender people, acknowledging the rollback of rights, and urging legislative progress for safety and equality.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 32,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "budget",
+            "believe",
+            "march",
+            "meaningful",
+            "received",
+            "forward",
+            "2026",
+            "engaged",
+            "news",
+            "mayor"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "town council",
+            "town manager",
+            "finance department",
+            "downtown businesses",
+            "patrons",
+            "residents",
+            "community members"
+        ],
+        "summary": "Mayor's Moment update discussing ongoing budget discussions, priority-setting, updates on municipal greenhouse gas emissions and decarbonization goals, recovery efforts from Tropical Storm Chantal, stormwater program, and transportation projects, emphasizing civic engagement.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 33,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "registration",
+            "brochure",
+            "account",
+            "register",
+            "online",
+            "session",
+            "occurs",
+            "recconnect",
+            "accompanied",
+            "wishes"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents interested in programs",
+            "participants"
+        ],
+        "summary": "Information regarding seasonal program registration, outlining three annual registration sessions, and the availability of program brochures at least two weeks prior to registration.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 34,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "disaster",
+            "centers",
+            "response",
+            "outages",
+            "available",
+            "power",
+            "information",
+            "kit",
+            "field",
+            "strikes"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "businesses",
+            "homeowners",
+            "renters",
+            "government agencies"
+        ],
+        "summary": "Carrboro provides information and resources for disaster response, including details from the American Red Cross and SBA Disaster Field Operations Centers, which serve as one-stop-shops for those affected by natural disasters, covering business recovery, disaster loans, and food safety after power outages.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 35,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "rescue",
+            "department",
+            "form",
+            "smoke",
+            "reflective",
+            "alarms",
+            "groups",
+            "monoxide",
+            "carbon",
+            "birthday"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "children",
+            "emergency services",
+            "firefighters",
+            "school classes",
+            "community groups"
+        ],
+        "summary": "The Carrboro Fire-Rescue Department offers various community safety services, including child car seat inspections/installations, reflective address sign orders, smoke and carbon monoxide alarm installations/inspections, fire prevention permits, public education events, fire station tours, and visits to community block parties or birthday parties.",
+        "related_doc_count": 4
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 36,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "directory",
+            "adjustment",
+            "return",
+            "title",
+            "edit",
+            "member",
+            "live",
+            "board",
+            "town",
+            "sriv"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Board of Adjustment members",
+            "Town residents"
+        ],
+        "summary": "This initiative maintains the Town Directory for the Board of Adjustment, listing members and their roles, facilitating transparency in town governance.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 37,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "damage",
+            "apartment",
+            "reported",
+            "heavy",
+            "investigation",
+            "smoke",
+            "displaced",
+            "visible",
+            "injuries",
+            "arrived"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "firefighters",
+            "property management",
+            "American Red Cross",
+            "assisting fire departments",
+            "emergency medical services",
+            "police department"
+        ],
+        "summary": "The Carrboro Fire-Rescue Department responds to structure fires, detailing the efforts of the department and assisting agencies to extinguish fires, assess damage, and provide support for displaced residents and injured individuals, with ongoing investigations into fire causes.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 38,
+        "primary_category": "climate action and clean energy",
+        "representation": [
+            "invasive",
+            "species",
+            "native",
+            "spread",
+            "plants",
+            "tree",
+            "usa",
+            "national",
+            "remove",
+            "join"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "local ecosystems",
+            "native plants and animals",
+            "Town of Carrboro",
+            "Mayor Foushee"
+        ],
+        "summary": "Carrboro is actively working to prevent the spread of invasive species as part of its Community Climate Action Plan. This initiative includes raising awareness, educating residents on identifying and removing invasive plants, encouraging the planting of native species, and promoting volunteer efforts for public land cleanups, highlighted by a National Invasive Species Awareness Week proclamation.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 39,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "tuesdays",
+            "meeting",
+            "calendar",
+            "1st",
+            "sessions",
+            "generally",
+            "meetings",
+            "livestream",
+            "thursday",
+            "3rd"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town Council members",
+            "residents"
+        ],
+        "summary": "This initiative outlines the Carrboro Town Council's meeting schedule, including regular business meetings on the first and third Tuesdays, work sessions on the second Tuesdays (where public comment is not accepted and votes are not taken), and a new meeting time for 2024.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 40,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "website",
+            "redesign",
+            "features",
+            "government",
+            "homepage",
+            "streamlines",
+            "accessed",
+            "function",
+            "carrboronc",
+            "commonly"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "local government",
+            "Town Manager Patrice Toney",
+            "Communication and Engagement Department",
+            "Town Communications Team"
+        ],
+        "summary": "The Town of Carrboro launched a redesigned website (www.carrboronc.gov) to improve accessibility, functionality, and streamline access to information and services. New features include an improved calendar, links to Town Pillars (Race and Equity, Climate Action), a projects area, translation function, video features, social media content, and ADA compliance, aiming to enhance community engagement and communication.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 41,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "poetry",
+            "poets",
+            "laureate",
+            "poet",
+            "prize",
+            "book",
+            "juneteenth",
+            "end",
+            "culture",
+            "celebration"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "poets",
+            "community partners",
+            "residents"
+        ],
+        "summary": "Carrboro supports and celebrates poetry and arts through initiatives like the West End Poetry Festival, which has featured numerous acclaimed poets. The town collaborates with community partners to program cultural events, including film festivals and pride celebrations, highlighting the role of poets laureate and local artists.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 42,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "directory",
+            "edit",
+            "return",
+            "live",
+            "websites",
+            "seat",
+            "civicplus",
+            "sustainability",
+            "commission",
+            "title"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Economic Sustainability Commission members",
+            "Climate and Environmental Advisory Commission members",
+            "Town residents"
+        ],
+        "summary": "This initiative involves maintaining the town directory, specifically highlighting vacant seats on key commissions such as the Economic Sustainability Commission and the Climate and Environmental Advisory Commission, which are crucial for town governance and sustainability efforts.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Carrboro",
+        "topic_id": 43,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "met",
+            "tuesday",
+            "hall",
+            "took",
+            "actions",
+            "march",
+            "council",
+            "town",
+            "attend",
+            "29"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Carrboro Town Council",
+            "residents",
+            "Town Manager Patrice Toney",
+            "Communication and Engagement Department"
+        ],
+        "summary": "The Carrboro Town Council holds regular meetings and town hall events to engage residents on policy changes at state and federal levels, such as proposed legislation impacting flags on government properties and Diversity, Equity, and Inclusion (DEI) programs. The Town Manager shares the town's preparatory actions for these higher-level policies, encouraging public participation.",
+        "related_doc_count": 3
+    }
+]
