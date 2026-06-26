@@ -1,0 +1,3386 @@
+[
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 36,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "water",
+            "reservoir",
+            "eno",
+            "river",
+            "plant",
+            "chlorine",
+            "treatment",
+            "fork",
+            "bacteria",
+            "source"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Customers",
+            "residents and businesses",
+            "property owners next to the treated section of river",
+            "humans, fish and wildlife"
+        ],
+        "summary": "This topic covers Hillsborough's drinking water supply from the Eno River, including the Water Treatment Plant, the West Fork Eno Reservoir (Phase 1 operational in 2000, Phase 2 completed in 2021), emergency water connections with neighboring utilities, history of addressing water shortages, invasive plant (Hydrilla) treatment, water quality testing (over 150 substances), detailed water treatment process, annual chlorine disinfection, water system flushing, water line break responsibilities, and management of black/pink residue and stale water.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 37,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "content",
+            "media",
+            "social",
+            "comments",
+            "sites",
+            "links",
+            "official",
+            "communication",
+            "statement",
+            "disclaimer"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community members and visitors",
+            "public",
+            "authors of comments"
+        ],
+        "summary": "This topic outlines the Town of Hillsborough's social media policy, emphasizing that sites are moderated and subject to public records laws. It details acceptable and unacceptable content (e.g., related to town-sponsored activities, no profane language, no discrimination, no political campaigns, no solicitations). It also includes disclaimer statements regarding official communications, endorsements of ads, and the inability to answer questions or emergency requests via social media.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 38,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "wastewater",
+            "lake",
+            "falls",
+            "treatment",
+            "river",
+            "rules",
+            "sewer",
+            "plant",
+            "nitrogen",
+            "watershed"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "customers",
+            "environment",
+            "fish",
+            "wildlife",
+            "property owners"
+        ],
+        "summary": "This topic describes Hillsborough's wastewater treatment and collection system. It highlights the release of treated wastewater into the Eno River, strict state requirements due to the Upper Neuse River Basin and Falls Lake Rules (Stage 1 met in 2014, Stage 2 expected 2036), and successful reduction of nitrogen and phosphorus discharge. It details the treatment process, water quality testing (over 220 substances), wastewater plant operations, pump station maintenance, responsibilities for sewer line blockages, preventative maintenance (hydraulic cleaning, smoke testing), and infrastructure protection programs (Fats, Oils, and Grease, No Wipes in the Pipes).",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 39,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "sewer",
+            "availability",
+            "specifications",
+            "utilities",
+            "code",
+            "ordinances",
+            "extensions",
+            "developer",
+            "connection",
+            "engineer"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Developers",
+            "Real Estate Agents",
+            "Property Seekers",
+            "residential building permit applicants",
+            "Engineers",
+            "Utility Contractors"
+        ],
+        "summary": "This topic provides guidance for developers, real estate agents, property seekers, engineers, and utility contractors regarding water and sewer availability, utility extensions, and connections in Hillsborough. It refers to the Code of Ordinances for utilities and sanitary sewer use, planning requirements, and fees for new connections and system development (charged per bedroom for residential permits). It also lists documents like developer/engineer checklists, fee schedules, and technical specifications.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 40,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "vehicle",
+            "operating",
+            "employees",
+            "wireless",
+            "phones",
+            "driving",
+            "electronic",
+            "communication",
+            "cell",
+            "devices"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Police Department employees",
+            "all employees operating town-owned vehicles",
+            "public"
+        ],
+        "summary": "This policy establishes rules for Police Department employees regarding the use of electronic wireless communication devices while operating town-owned vehicles. It encourages stopping vehicles for device use, prohibits critical information communication via text/email to driving employees, and outlines specific prohibitions while driving (e.g., non-hands-free cell phone use for non-work purposes, viewing videos, engaging in distracting activities). Exceptions for emergency situations and specific police equipment are noted.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 41,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "meetings",
+            "day",
+            "week",
+            "17",
+            "bulk",
+            "00",
+            "board",
+            "29",
+            "pm",
+            "2026"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community members",
+            "public",
+            "board members",
+            "commissioners",
+            "town staff"
+        ],
+        "summary": "This topic provides a calendar of events and meetings for Hillsborough, including Bulk Items Collection Week, various board meetings (Board of Adjustment, Board of Commissioners, Historic District Commission, Parks and Recreation Board, Planning Board, Tree Board, Tourism Board, Tourism Development Authority), and town office closures (e.g., Memorial Day, Independence Day). It also mentions a Gold Park Pollinator Garden Workday and a public event \"Together, We Are America\".",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 42,
+        "primary_category": "job creation and business support",
+        "representation": [
+            "business",
+            "occupation",
+            "checklist",
+            "starting",
+            "home",
+            "zoning",
+            "permits",
+            "economic",
+            "permit",
+            "compliance"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "business owners",
+            "developers",
+            "entrepreneurs",
+            "home-based business operators",
+            "Orange County Economic Development Office",
+            "Orange County Building Inspections Division",
+            "Orange County Fire Marshal Division"
+        ],
+        "summary": "This topic outlines the checklist and steps for starting, expanding, or relocating a business in Hillsborough. It covers determining zoning, selecting sites with economic development staff assistance, pre-development meetings (covering ADA compliance, building codes, health department requirements, parking, fire access), obtaining various permits (change of use, home occupation, new construction, signs), and coordinating with Orange County for inspections. It also details specific town services and permits related to business operation, including those for home occupations and the process for obtaining a business license for certain activities.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 43,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "tree",
+            "trees",
+            "arbor",
+            "invasive",
+            "plants",
+            "removal",
+            "arborist",
+            "program",
+            "planting",
+            "knotweed"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Hillsborough Tree Board",
+            "community members",
+            "homeowners and other tree owners",
+            "public spaces",
+            "environment"
+        ],
+        "summary": "This topic describes Hillsborough's initiatives related to trees and invasive plant management. It highlights the weekly invasive species removal team led by the Hillsborough Tree Board, the town's participation in the Arbor Day Foundation's Tree City USA program since 2003 (requiring a tree board, care ordinance, and community forestry budget), and educational resources from Trees Are Good website. The Tree Board is responsible for trees/landscaping in parks, town property, and contributes to tree planting requirements in private development, and observes Arbor Day.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 44,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "rinse",
+            "washing",
+            "dishes",
+            "save",
+            "sink",
+            "running",
+            "bottle",
+            "dishwasher",
+            "filled",
+            "shower"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "customers",
+            "homeowners",
+            "community members"
+        ],
+        "summary": "This topic provides water conservation tips for Hillsborough residents across various areas. In the kitchen and laundry, it advises reducing running water, rinsing vegetables in a pan, defrosting in microwave/refrigerator, using garbage disposal less, composting, filling sinks for handwashing dishes, using minimal detergent, and running full loads for dishwashers/washing machines, and choosing high-efficiency appliances. In the bathroom, it suggests turning off faucets, rinsing razors in filled sinks, shortening showers, taking shallow baths, installing low-flow fixtures, flushing only when necessary, and using a filled plastic bottle in toilet tanks. It also includes outside tips like reducing watering, avoiding vehicle washing at home, and delaying water-intensive projects, and dining out tips for bottled water during restrictions.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 45,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "adjustment",
+            "leak",
+            "meter",
+            "customer",
+            "adjustments",
+            "billing",
+            "leaks",
+            "period",
+            "request",
+            "customers"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Customers",
+            "property owners"
+        ],
+        "summary": "This topic details Hillsborough's policies regarding utility bill adjustments, particularly for water line leaks and malfunctioning water meters. Customers can request a leak adjustment within two months of the billing date, provided documentation of the leak or repair receipts. One leak adjustment is allowed per 12-month period, with the charge based on a six-month average. For malfunctioning meters, customers are charged based on a six-month average, and a meter flow test can be requested (with a fee if the meter passes). It also covers general billing information, payment methods, service disconnection, and online account management.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 46,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "animal",
+            "animals",
+            "destroying",
+            "destroy",
+            "destruction",
+            "badly",
+            "fired",
+            "domestic",
+            "report",
+            "force"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Animal owners",
+            "Police officers",
+            "Animal Control",
+            "Humane Society",
+            "Veterinary offices",
+            "Supervisors"
+        ],
+        "summary": "Hillsborough's policy outlines procedures for police officers regarding the humane destruction of badly injured domestic animals, including owner notification, supervisory approval, reporting protocols, and safety considerations for officers and the public.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 47,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "security",
+            "home",
+            "garage",
+            "windows",
+            "checks",
+            "secure",
+            "away",
+            "doors",
+            "check",
+            "police"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Hillsborough residents",
+            "Homeowners",
+            "Hillsborough Police Department staff"
+        ],
+        "summary": "The Hillsborough Police Department offers free home security checks and consultations to residents, providing advice on safety improvements and property monitoring to deter break-ins, especially when residents are away.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 48,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "irrigation",
+            "rates",
+            "water",
+            "charges",
+            "inspections",
+            "meter",
+            "service",
+            "backflow",
+            "sewer",
+            "direct"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Hillsborough water customers",
+            "Contractors",
+            "Orange County Planning and Inspections Department",
+            "Town utilities staff"
+        ],
+        "summary": "Hillsborough's regulations for irrigation systems, including permit requirements, system development fees, monthly water usage charges, and policies for bulk water purchase and hydrant meter rental, with provisions for water shortages.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 49,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "pipes",
+            "pipe",
+            "open",
+            "valve",
+            "freezing",
+            "faucets",
+            "air",
+            "unheated",
+            "burst",
+            "faucet"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Hillsborough water customers",
+            "Homeowners",
+            "Plumbers"
+        ],
+        "summary": "Guidelines for Hillsborough residents to prevent water pipes from freezing and bursting, offering tips for insulating and heating pipes in unheated areas, sealing leaks, and steps to take if pipes are frozen or burst.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 50,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "resolutions",
+            "proclamations",
+            "commissioners",
+            "meeting",
+            "board",
+            "meetings",
+            "consent",
+            "agenda",
+            "typically",
+            "peoples"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Mayor",
+            "Hillsborough Board of Commissioners",
+            "Town Clerk staff",
+            "Community organizations",
+            "Public"
+        ],
+        "summary": "Policies and procedures for the Hillsborough Board of Commissioners regarding the adoption of resolutions and the issuance of mayoral proclamations, including criteria for requests and their typical placement on meeting agendas.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 51,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "project",
+            "funding",
+            "construction",
+            "phase",
+            "installment",
+            "mechanism",
+            "underway",
+            "expected",
+            "loan",
+            "revoked"
+        ],
+        "budget_allocation": 6000000.0,
+        "impacted_stakeholders": [
+            "Hillsborough town government",
+            "Federal government (previous funding)",
+            "Construction contractors",
+            "Residents (as beneficiaries of the project)"
+        ],
+        "summary": "A Hillsborough project is currently in the design phase with an estimated construction and renovation cost of $6 million, financed by an installment loan, noting the prior revocation of federal funding.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 52,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "energy",
+            "conducted",
+            "aerosol",
+            "weapon",
+            "person",
+            "probes",
+            "subject",
+            "reasonably",
+            "medical",
+            "sprayed"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Police officers",
+            "Subjects of force",
+            "Emergency Medical Services personnel",
+            "Medical personnel",
+            "Community"
+        ],
+        "summary": "Hillsborough Police Department's policy on the use of conducted energy weapons (Tasers) and aerosol sprays, detailing restrictions for vulnerable individuals, post-deployment care, and conditions for their application to ensure safety.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 53,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "agreements",
+            "private",
+            "companies",
+            "rights",
+            "way",
+            "property",
+            "construction",
+            "utility",
+            "company",
+            "legal"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Utility companies",
+            "Internet service providers",
+            "Hillsborough residents",
+            "North Carolina Department of Transportation",
+            "Town government"
+        ],
+        "summary": "Hillsborough's policy regarding utility companies' operations within public rights-of-way, outlining their legal rights, requirements for property restoration post-construction, and the town's ability to impose conditions via encroachment agreements.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 54,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "police",
+            "department",
+            "community",
+            "policing",
+            "hillsborough",
+            "solving",
+            "best",
+            "vision",
+            "team",
+            "character"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Hillsborough Police Department personnel",
+            "Hillsborough community",
+            "Residents"
+        ],
+        "summary": "The Hillsborough Police Department's mission and vision statement, emphasizing exceptional service, community protection, and professional law enforcement through its character, operations, interactions, and personnel.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 55,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "signs",
+            "square",
+            "event",
+            "banner",
+            "display",
+            "feet",
+            "permit",
+            "banners",
+            "signage",
+            "sign"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Event organizers",
+            "Businesses",
+            "Public (for traffic safety)",
+            "Town government (for permitting and enforcement)"
+        ],
+        "summary": "Regulations for temporary event signage in Hillsborough, detailing limits on the number, size, and type of signs (rigid vs. banners), permissible display locations (on-site and off-site), and duration of display.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 56,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "handlers",
+            "dogs",
+            "jett",
+            "canine",
+            "dog",
+            "train",
+            "police",
+            "independent",
+            "scenarios",
+            "trainer"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Police Department",
+            "Canine Officers",
+            "Students in Hillsborough",
+            "Community groups",
+            "Local schools"
+        ],
+        "summary": "Hillsborough maintains a police canine unit with one dual-purpose patrol dog, Jett, acquired in 2018. The canine officers and their handlers undergo monthly training and annual certification by an independent trainer. The unit also performs demonstrations for schools and community groups.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 57,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "burial",
+            "cemetery",
+            "section",
+            "zone",
+            "grave",
+            "monument",
+            "markers",
+            "graves",
+            "marker",
+            "funeral"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Funeral directors",
+            "Funeral homes",
+            "Monument companies",
+            "Town residents",
+            "Non-residents",
+            "Heirs/Legatees/Devisees of plot owners",
+            "Town staff",
+            "Public Space and Sustainability Division",
+            "Public Works Division"
+        ],
+        "summary": "Hillsborough's Town Cemetery requires burials to be performed by licensed funeral directors under town supervision, with specific notification requirements. All burial plots have been sold, with strict rules against reselling for profit or acquiring at an in-town rate for non-residents. The town issues Certificates of Burial Right and has regulations for grave markings and monuments, managed by the Public Works Division. Burial records are available online.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 58,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "community",
+            "communications",
+            "contacts",
+            "sharing",
+            "neighbors",
+            "requiring",
+            "inform",
+            "information",
+            "informed",
+            "topics"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Community members",
+            "Neighbors",
+            "Communications Division",
+            "Senior communications specialist"
+        ],
+        "summary": "Hillsborough maintains a 'Community Contacts' program where volunteers share town information with neighbors and inform the Communications Division about topics needing more attention, aiming to keep the community informed.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 59,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "south",
+            "churton",
+            "study",
+            "corridor",
+            "project",
+            "multimodal",
+            "street",
+            "page",
+            "pumping",
+            "station"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town residents",
+            "State",
+            "Public Space and Sustainability Division"
+        ],
+        "summary": "Hillsborough is conducting a South Churton Street Multimodal Corridor Study to develop design concepts for a state-funded project to widen the road from Interstate 40 to the Eno River, aiming to enhance the town's character and transportation infrastructure.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 60,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "greenway",
+            "collins",
+            "ridge",
+            "ridgewalk",
+            "train",
+            "bicycle",
+            "pedestrian",
+            "section",
+            "connectivity",
+            "85"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Pedestrians",
+            "Bicyclists",
+            "Collins Ridge developers",
+            "North Carolina Department of Transportation",
+            "North Carolina Railroad Company",
+            "Board of Commissioners",
+            "Public Space and Sustainability"
+        ],
+        "summary": "Hillsborough is developing the Ridgewalk Greenway, a paved urban greenway for pedestrians and bicyclists, connecting downtown to a future train station and Cates Creek Park. This project, a transportation priority since 2021, will be implemented in sections and requires coordination with NCDOT and the NC Railroad Company, with developers of Collins Ridge contributing land for connectivity.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 61,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "fiber",
+            "agreement",
+            "google",
+            "internet",
+            "lumos",
+            "brightspeed",
+            "encroachment",
+            "spectrum",
+            "providers",
+            "companies"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Town residents",
+            "Businesses",
+            "Internet Service Providers (Brightspeed, Google Fiber, Lumos, Spectrum)",
+            "North Carolina Public Utilities Commission",
+            "Orange County",
+            "North Carolina Department of Transportation",
+            "Property owners",
+            "Homeowners associations"
+        ],
+        "summary": "Hillsborough is seeing private utility companies like Brightspeed, Google Fiber, Lumos, and potentially Spectrum, install gigabit fiber-optic cables to enhance internet services. The town has master encroachment agreements with some providers and can impose conditions on work within public rights-of-way, but does not fund or perform the installations, which are private projects. Residents are advised to contact providers directly for service availability.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 62,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "disabilities",
+            "animals",
+            "americans",
+            "modifications",
+            "discriminate",
+            "disability",
+            "act",
+            "people",
+            "programs",
+            "effective"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "People with disabilities",
+            "Town residents",
+            "Service animal owners",
+            "Town of Hillsborough offices",
+            "Town staff"
+        ],
+        "summary": "The Town of Hillsborough is committed to not discriminating on the basis of disability, in compliance with the Americans with Disabilities Act. It provides reasonable modifications to policies and procedures, including auxiliary aids for effective communication, welcomes service animals in town offices, and offers special solid waste collection for eligible residents with disabilities.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 63,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "86",
+            "fleet",
+            "facility",
+            "operations",
+            "renovation",
+            "office",
+            "currently",
+            "storage",
+            "highway",
+            "division"
+        ],
+        "budget_allocation": 3700000.0,
+        "impacted_stakeholders": [
+            "Fleet Maintenance Operations",
+            "Safety and Risk Management Office",
+            "Public Works Division",
+            "Town staff",
+            "H.M. Kern Corporation"
+        ],
+        "summary": "Hillsborough is undertaking a nearly $3.7 million renovation and expansion of the Highway 86 North Facility (890 N.C. 86 N.). This project will provide improved office, storage, and workspace for Fleet Maintenance Operations and the Safety and Risk Management Office, and will allow the Public Works Division to relocate its operations out of a floodplain into the renovated facility.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 64,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "content",
+            "drug",
+            "conviction",
+            "language",
+            "sexual",
+            "associated",
+            "position",
+            "years",
+            "illegal",
+            "youthful"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Social media users",
+            "Town staff"
+        ],
+        "summary": "Hillsborough has content guidelines for social media, prohibiting profane, obscene, or sexual language/content, duplicate posts, and confidential or nonpublic information. Such content is subject to blocking or removal by the platform's filtering functions.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 65,
+        "primary_category": "job creation and business support",
+        "representation": [
+            "seating",
+            "business",
+            "outdoor",
+            "license",
+            "path",
+            "tables",
+            "foot",
+            "sidewalk",
+            "merchandise",
+            "storefront"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Businesses",
+            "Customers",
+            "Economic Development department",
+            "Financial Services department"
+        ],
+        "summary": "Hillsborough offers an Outdoor Seating Permit for businesses to serve customers on public sidewalks and spaces, subject to conditions like storefront placement, clear delineation of seating areas, and maintaining ADA-compliant and 6-foot clear pedestrian paths. Businesses selling beer or wine also require a separate business license.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 66,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "sewers",
+            "lawndale",
+            "sewer",
+            "project",
+            "pipe",
+            "basin",
+            "northern",
+            "torain",
+            "contractor",
+            "rainey"
+        ],
+        "budget_allocation": 1500000.0,
+        "impacted_stakeholders": [
+            "Property owners",
+            "residents",
+            "community"
+        ],
+        "summary": "The Lawndale Sewer Project in Hillsborough involves the repair and replacement of existing sewers in the Lawndale Basin. The scope includes cleaning, inspecting, performing small dig and repair projects on the main sewer line and service connections, installing or moving sewer cleanouts, and lining sewer pipes to prevent groundwater and rainwater infiltration. The project is estimated to cost $1.5 million, with funding from a low-interest loan and reserve funds, and is slated to begin in November 2025.",
+        "related_doc_count": 4
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 67,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "stop",
+            "online",
+            "service",
+            "start",
+            "site",
+            "payments",
+            "adjustments",
+            "billing",
+            "sign",
+            "learn"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "customers",
+            "residents",
+            "property owners"
+        ],
+        "summary": "This initiative outlines the procedures for starting and stopping water service in Hillsborough. To start service, customers must contact customer service at least three business days in advance, pay a $20 connection fee and a deposit, and provide a copy of a deed, lease, or property management agreement, along with a Social Security number and valid ID. Service can be initiated or disconnected via the town's online payment site.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 68,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "reservation",
+            "reservations",
+            "cancellations",
+            "date",
+            "paid",
+            "discretion",
+            "bad",
+            "credited",
+            "credits",
+            "usable"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "public",
+            "residents"
+        ],
+        "summary": "Hillsborough's policy on reservations states that they are nonrefundable. No credit will be issued for bad weather if the park is open. However, cancellations made at least seven days before the reservation date may receive a credit for the amount paid, usable for one year. Reservations are approved at the discretion of authorized staff and will be canceled if payment is not received by the due date.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 69,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "officer",
+            "imminent",
+            "believes",
+            "arrest",
+            "escape",
+            "attempting",
+            "reasonably",
+            "custody",
+            "physical",
+            "attack"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "officers",
+            "public",
+            "persons being arrested"
+        ],
+        "summary": "This policy outlines the circumstances under which a law enforcement officer may use deadly physical force. It is permitted to defend the officer or a third party from what the officer reasonably believes to be the use or imminent use of deadly physical force, or to effect an arrest or prevent escape from custody of a person attempting to escape by means of a deadly weapon or posing an imminent threat of death or serious physical injury to others.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 70,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "training",
+            "safely",
+            "officers",
+            "jiu",
+            "jitsu",
+            "virtual",
+            "responses",
+            "trainer",
+            "techniques",
+            "situations"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Police Department officers",
+            "community"
+        ],
+        "summary": "The Hillsborough Police Department offers diverse training programs to enhance officer skills and safety. Internal training includes Brazilian jiu-jitsu to reduce the need for force and a virtual reality system for scenario-based responses. External training encompasses Crisis Intervention, the Law Enforcement Executive Program, Professional Certification, and West Point Leadership Training, all aimed at improving officer confidence, de-escalation techniques, and overall community safety.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 71,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "influencing",
+            "participating",
+            "course",
+            "government",
+            "members",
+            "knowledge",
+            "decisions",
+            "community",
+            "increase",
+            "ability"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community members",
+            "residents"
+        ],
+        "summary": "Hillsborough offers a multi-week Civic Engagement Course designed to increase community members' knowledge of town government and their ability to influence and participate in town decisions. The program aims to reduce barriers to civic engagement, enhance understanding of town processes, and encourage future community service.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 72,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "page",
+            "county",
+            "greenways",
+            "hillsborough",
+            "orange",
+            "website",
+            "view",
+            "events",
+            "arts",
+            "town"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "visitors",
+            "community"
+        ],
+        "summary": "Hillsborough highlights its parks and greenways, including the Riverwalk greenway along the Eno River, accessible via the Recreation Facilities page and Orange County's website for county-wide options. This topic serves as an informational hub covering various town services, cultural events, development, public safety, waste management, and utility services, encouraging community engagement and providing contact information for different departments.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 73,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "banners",
+            "banner",
+            "feet",
+            "flagpoles",
+            "supports",
+            "welcome",
+            "maximum",
+            "signs",
+            "sign",
+            "event"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "event organizers",
+            "community members",
+            "businesses"
+        ],
+        "summary": "Hillsborough regulates the display of special event banners and additional signs, requiring a zoning compliance permit. Banners are permitted for two weeks at the \"Welcome to Hillsborough\" sign location (South Churton and Mayo streets), advertising public community events, with specific size and material requirements. Up to five additional rigid signs can be displayed off-site for up to 17 days, also with size and location restrictions. Permit fees apply.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 74,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "parking",
+            "downtown",
+            "strategies",
+            "demand",
+            "area",
+            "west",
+            "needs",
+            "existing",
+            "maximize",
+            "broader"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "businesses",
+            "tourists",
+            "downtown users"
+        ],
+        "summary": "Hillsborough is conducting a comprehensive parking study and developing a strategic parking management plan for its downtown and West Hillsborough areas. The initiative aims to assess current parking supply and demand, understand public perceptions, address future needs, improve parking accessibility and visibility, and develop strategies that align with broader community needs, evolving downtown demands, and the Comprehensive Sustainability Plan.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 75,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "enterprise",
+            "fund",
+            "funds",
+            "revenue",
+            "revenues",
+            "profits",
+            "purpose",
+            "pays",
+            "funded",
+            "stormwater"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "town government",
+            "water and sewer customers",
+            "stormwater utility customers"
+        ],
+        "summary": "Hillsborough operates two enterprise funds: the Stormwater Utility Fund and the Water and Sewer Fund. These funds manage the town's business-like activities, with services financed by fees and charges rather than taxes. The revenue generated is dedicated solely to providing these specific services, ensuring no profits are made and funds are used exclusively for their intended purpose.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 76,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "update",
+            "answer",
+            "forums",
+            "customer",
+            "unable",
+            "questions",
+            "feedback",
+            "visit",
+            "administrative",
+            "order"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "customers",
+            "residents"
+        ],
+        "summary": "An initiative focused on managing customer feedback and inquiries through various forums, directing them to appropriate contact channels instead of social media for detailed questions and concerns.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 77,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "approved",
+            "board",
+            "received",
+            "annual",
+            "update",
+            "favorable",
+            "report",
+            "organizational",
+            "celebration",
+            "concluded"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "board members",
+            "town manager",
+            "Police Department",
+            "residents"
+        ],
+        "summary": "The board's annual activities, including approving recreation regulations, reviewing the budget, conducting organizational meetings, receiving audit reports for Fiscal Year 2025, and reviewing the Police Department's annual report and planning updates for town celebrations.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 78,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "fats",
+            "grease",
+            "oil",
+            "fat",
+            "oils",
+            "trapper",
+            "interceptors",
+            "greasy",
+            "backups",
+            "trappers"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residential customers",
+            "properties discharging greasy wastewater",
+            "utilities infrastructure protection supervisor",
+            "Orange County solid waste convenience center"
+        ],
+        "summary": "An initiative to prevent sewer line blockages and overflows caused by fats, oils, and grease (FOG). It requires properties with greasy wastewater to have interceptors, provides free fat trappers to residential customers, and educates on proper FOG disposal and avoiding flushing non-dissolvable items.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 79,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "commissioners",
+            "board",
+            "representing",
+            "mayor",
+            "ties",
+            "member",
+            "serving",
+            "hears",
+            "appeals",
+            "establishes"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Hillsborough Board of Commissioners",
+            "mayor",
+            "tourism board members",
+            "businesses collecting room occupancy tax",
+            "travel and tourism promoters"
+        ],
+        "summary": "Describes the structure and function of the Hillsborough Board of Commissioners, which serves as the town's legislative body, establishes policy and law, and includes the mayor and five commissioners. It also mentions representation on the Tourism Board.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 80,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "medical",
+            "injury",
+            "injuries",
+            "applied",
+            "complaining",
+            "chest",
+            "stabilized",
+            "pains",
+            "foremost",
+            "force"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "officers",
+            "subjects involved in use of force incidents",
+            "Emergency Medical Services",
+            "on-duty supervisors",
+            "command staff"
+        ],
+        "summary": "Policy outlining procedures for officers after use of force incidents, emphasizing immediate medical assessment and intervention for subjects, notification of supervisors, securing the scene, collecting evidence, and documenting injuries through photographs.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Hillsborough",
+        "topic_id": 81,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "distribution",
+            "maintains",
+            "deliver",
+            "environment",
+            "cleans",
+            "division",
+            "transport",
+            "prepares",
+            "drinking",
+            "water"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "Utilities Department",
+            "Water Distribution Division",
+            "N.C. American Water Works Association-Water Environment Association"
+        ],
+        "summary": "The Utilities Department's role in preparing drinking water, cleaning wastewater for environmental return, and maintaining infrastructure. Specifically, the Water Distribution Division repairs water line breaks, maintains water lines, pump stations, and tanks, and manages a backflow prevention program.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 0,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "collection",
+            "cart",
+            "recycling",
+            "waste",
+            "garbage",
+            "city",
+            "yard",
+            "leaves",
+            "items",
+            "collected"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Mebane residents",
+            "Public Works Department",
+            "GFL Environmental (contractor)",
+            "Alamance County Landfill",
+            "Orange County Waste & Recycling Centers",
+            "physically or elderly disabled citizens"
+        ],
+        "summary": "Comprehensive solid waste management services including scheduled garbage, recycling, bulk item, and yard waste collection. It provides guidelines for disposing of e-waste, tires, used oil, paints, and chemicals. Special collection services are available for physically or elderly disabled citizens, and a seasonal loose-leaf collection program is offered.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 1,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "training",
+            "safety",
+            "department",
+            "prevention",
+            "extinguisher",
+            "emergency",
+            "life",
+            "station",
+            "tours",
+            "firefighters"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community",
+            "seniors",
+            "children",
+            "businesses",
+            "daycares",
+            "firefighters",
+            "volunteer department"
+        ],
+        "summary": "Fire and Life Safety Education and Training programs offered by the Fire Marshal's Office, including National Fire Prevention Week, station tours, child passenger safety, business and community events, prevention for seniors, and fire extinguisher training.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 2,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "mebane",
+            "park",
+            "camp",
+            "parks",
+            "recreation",
+            "athletic",
+            "street",
+            "community",
+            "tennis",
+            "complex"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Mebane residents",
+            "youth",
+            "adults",
+            "athletes",
+            "community members",
+            "Recreation and Parks Advocacy Commission"
+        ],
+        "summary": "A wide range of recreation and parks initiatives, including managing parks, facilities, and trails, offering youth and adult athletic programs (baseball, basketball, lacrosse, football, golf, softball, tennis, volleyball, soccer), sports camps, and community events like Movies in the Park, Downtown Farmers Market, and holiday celebrations. It also includes comprehensive master planning and advocacy.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 3,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "youth",
+            "spring",
+            "coaches",
+            "athletic",
+            "child",
+            "program",
+            "scholarship",
+            "agree",
+            "policy",
+            "fall"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "youth athletes",
+            "parents",
+            "coaches",
+            "City staff",
+            "NRPA"
+        ],
+        "summary": "Policies and programs for youth athletic activities, focusing on child safety and well-being. This includes a Youth Protection Policy, Coach Code of Ethics, Parent Code of Ethics, Concussion Management Program, Heat Policy for Youth Athletic Programs, and mandatory background screenings for all coaches.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 4,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "council",
+            "city",
+            "meeting",
+            "board",
+            "monday",
+            "meetings",
+            "planning",
+            "county",
+            "corporate",
+            "mayor"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "City Council members",
+            "Alamance and Orange County Commissioners",
+            "residents of the City of Mebane",
+            "residents of the extraterritorial jurisdiction",
+            "citizens"
+        ],
+        "summary": "This initiative outlines the structure and meeting schedules of various city boards and commissions, including the Planning Board and Board of Adjustment, which advise the City Council on planning matters, zoning, and development. It details their composition, appointment processes, and responsibilities.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 5,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "police",
+            "officers",
+            "department",
+            "community",
+            "law",
+            "enforcement",
+            "traffic",
+            "school",
+            "support",
+            "unit"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Mebane Community",
+            "residents",
+            "guests",
+            "citizens",
+            "local schools and programs",
+            "homeowners/residents",
+            "Special Olympics North Carolina",
+            "law enforcement agencies",
+            "corrections departments"
+        ],
+        "summary": "This initiative focuses on the Mebane Police Department's \"Community Oriented Policing\" philosophy and related programs. It includes National Night Out, a Citizens' Police Academy, Police Department Tours, Fingerprinting services, Residential Security Checks, and support for Special Olympics through the Law Enforcement Torch Run, aiming to build strong police-community partnerships and improve quality of life.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 6,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "annual",
+            "report",
+            "work",
+            "posted",
+            "plan",
+            "download",
+            "2023",
+            "bpac",
+            "drinking",
+            "quality"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "citizens",
+            "BPAC (Bicycle and Pedestrian Advisory Commission)"
+        ],
+        "summary": "This initiative involves the regular publication and availability of Annual Reports and Work Plans, including those from the BPAC (Bicycle and Pedestrian Advisory Commission), for various years (e.g., 2018-2026). These documents are made available for download, providing transparency on past activities and future plans.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 7,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "water",
+            "service",
+            "particles",
+            "lines",
+            "drinking",
+            "quality",
+            "lead",
+            "backflow",
+            "line",
+            "utilities"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Public Utilities Department",
+            "City of Graham",
+            "customers",
+            "homeowners/residents",
+            "licensed plumbers",
+            "Fire Departments"
+        ],
+        "summary": "This initiative provides comprehensive information on Mebane's public utility services, specifically water and sewer. It covers how to set up new services, the source of the city's water, the division of responsibility for service lines, and detailed guidance on troubleshooting water quality issues like discoloration, odor, and particles. It also mentions the Lead Service Line Inventory and Annual Drinking Water Quality Reports.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 8,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "fitness",
+            "court",
+            "open",
+            "workout",
+            "art",
+            "fields",
+            "courts",
+            "pad",
+            "splash",
+            "cone"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Mebane Youth Soccer Association",
+            "residents",
+            "dog owners",
+            "community members seeking fitness/recreation"
+        ],
+        "summary": "This initiative highlights the Mebane Community Park as a central hub for recreation and fitness. It features two artificial turf ball fields used by the Mebane Youth Soccer Association and the recently installed Cone Health Community Fitness Court, a state-of-the-art bodyweight resistance workout area. Other amenities include a 0.5-mile walking/running track, a dog park, a splash pad, and a playground.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 9,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "annual",
+            "report",
+            "posted",
+            "download",
+            "financial",
+            "plan",
+            "2026",
+            "plans",
+            "draft",
+            "finance"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "citizens",
+            "Finance Department",
+            "City of Mebane"
+        ],
+        "summary": "This initiative focuses on the regular publication and accessibility of the City of Mebane's Annual Comprehensive Financial Reports (ACFR) and Popular Annual Financial Reports (PAFR). These documents provide financial transparency for various fiscal years and are available for download.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 10,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "parade",
+            "downtown",
+            "pleased",
+            "takes",
+            "present",
+            "easter",
+            "mebane",
+            "place",
+            "christmas",
+            "businesses"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "families",
+            "downtown businesses",
+            "Downtown Mebane Development Corporation",
+            "churches",
+            "school groups",
+            "parade applicants",
+            "sponsors and partners"
+        ],
+        "summary": "This initiative involves organizing and presenting annual downtown community events: the \"Downtown Mebane Eggstravaganza and Bunny Hop\" for Easter, which includes egg decorating and bunny visits, and the \"Mebane Christmas Parade,\" a nighttime parade featuring over 100 entries. Both events aim to engage the community and support local businesses.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 11,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "map",
+            "gis",
+            "sites",
+            "mapping",
+            "2045",
+            "county",
+            "application",
+            "future",
+            "installation",
+            "use"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "City of Mebane facilities",
+            "IT staff",
+            "residents",
+            "Alamance County",
+            "Orange County"
+        ],
+        "summary": "This initiative focuses on Geographical Information Systems (GIS) and mapping projects, providing interactive maps for planning jurisdiction, zoning, parks, garbage/recycling pickup, and development activity (Mebane 2045 Future Land Use Map). It also includes the Lumos Fiber installation project, enhancing high-speed fiber connectivity across city facilities to improve operations and support public Wi-Fi.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 12,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "development",
+            "planning",
+            "adopted",
+            "zoning",
+            "requests",
+            "range",
+            "long",
+            "rezoning",
+            "plan",
+            "unified"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "City of Mebane",
+            "residents",
+            "developers",
+            "Planning and Zoning Department",
+            "Inspections Department",
+            "various boards and commissions"
+        ],
+        "summary": "This initiative involves the Planning and Zoning Department overseeing growth and development in Mebane. Key responsibilities include maintaining and enforcing the Unified Development Ordinance (UDO), managing planning needs like zoning permits, rezoning, annexations, and site plan reviews, and implementing long-range plans. The department works closely with the Inspections Department to ensure all construction and development activities comply with local ordinances.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 13,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "registration",
+            "opens",
+            "residents",
+            "players",
+            "15th",
+            "ends",
+            "program",
+            "1st",
+            "start",
+            "non"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "new players",
+            "Mebane residents",
+            "non-residents",
+            "participants"
+        ],
+        "summary": "This initiative outlines the registration process for various programs, specifying different opening dates for Mebane residents and non-residents (e.g., June 1st/15th, July 1st/15th) and indicating that registration closes when the program is full or by a set date (e.g., August 1st).",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 14,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "mask",
+            "allowed",
+            "immunity",
+            "lake",
+            "michael",
+            "vaccinated",
+            "wear",
+            "fishing",
+            "dog",
+            "places"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Fully vaccinated people",
+            "Unvaccinated people"
+        ],
+        "summary": "Guidelines regarding mask-wearing for fully vaccinated and unvaccinated individuals, emphasizing the need to carry a mask and the time required to build full immunity after vaccination.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 15,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "features",
+            "play",
+            "playground",
+            "swing",
+            "farm",
+            "officially",
+            "opened",
+            "area",
+            "park",
+            "walking"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Families",
+            "Children",
+            "Community members",
+            "Parents"
+        ],
+        "summary": "Development and expansion of Cates Farm Park, including the official opening of an accessibly inclusive playground with features like a wheelchair swing, cargo nets, and dedicated play areas for different age groups, along with walking trails and other park amenities.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 16,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "permit",
+            "building",
+            "portal",
+            "permits",
+            "lien",
+            "workers",
+            "affidavit",
+            "exceed",
+            "inspections",
+            "zoning"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Businesses",
+            "Contractors",
+            "Developers",
+            "City departments (Planning, Inspections, Fire)"
+        ],
+        "summary": "Implementation of an improved online permit and plan review portal for various permits, including building, business occupancy, and fire permits, outlining required forms, fees, and inspection processes.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 17,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "qualifications",
+            "west",
+            "road",
+            "connector",
+            "ductile",
+            "engineering",
+            "asset",
+            "firms",
+            "request",
+            "main"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Professional engineering firms",
+            "City of Mebane",
+            "Residents"
+        ],
+        "summary": "Request for qualifications from professional engineering firms to provide services for the proposed West Ten Road Water Connector, which involves installing approximately 3,300 LF of 12-inch ductile iron water main.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 18,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "water",
+            "particles",
+            "black",
+            "brown",
+            "white",
+            "iron",
+            "discolored",
+            "heater",
+            "odor",
+            "faucet"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "Households",
+            "Public Utilities Department"
+        ],
+        "summary": "Guidance for residents on identifying and addressing various water quality issues, including discolored water (gray, black, brown, yellow, green) caused by sediments or internal plumbing, and different types of particles (black, brown/orange, white) originating from filters, faucets, pipes, or water heaters. It also covers chlorine and foul odors.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 19,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "pedestrian",
+            "bicycle",
+            "bpac",
+            "transportation",
+            "meetings",
+            "advisory",
+            "planning",
+            "routes",
+            "bike",
+            "plans"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Pedestrians",
+            "Cyclists",
+            "Community members",
+            "City Council",
+            "Planning Department",
+            "Recreation & Parks Department"
+        ],
+        "summary": "Activities and purpose of the Mebane Bicycle & Pedestrian Advisory Commission (BPAC), which advises the City Council on bicycle and pedestrian needs, promotes safety and accessibility, and organizes community engagement events like the Mebane Activity Challenge. The BPAC operates under the Bicycle and Pedestrian Transportation Plan.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 20,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "captain",
+            "criminal",
+            "justice",
+            "carolina",
+            "cole",
+            "university",
+            "assistant",
+            "richardson",
+            "law",
+            "north"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Mebane Police Department staff",
+            "Community members"
+        ],
+        "summary": "Details the administrative staff of the Mebane Police Department, including Assistant Chief J. L. Richardson and Captains A. T. Cole and C. W. Snell, highlighting their promotions, career assignments, educational backgrounds in criminal justice, and certifications in law enforcement.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 21,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "specifications",
+            "standards",
+            "2021",
+            "april",
+            "posted",
+            "city",
+            "details",
+            "download",
+            "construction",
+            "mebane"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "City of Mebane",
+            "Developers",
+            "Contractors",
+            "Public Works Department"
+        ],
+        "summary": "The City of Mebane's standards and specifications for street details and material specifications, made available for download, likely for construction and development projects.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 22,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "golf",
+            "kids",
+            "play",
+            "family",
+            "team",
+            "game",
+            "course",
+            "fun",
+            "courses",
+            "creek"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Kids",
+            "Families",
+            "Young golfers",
+            "Parents/Guardians"
+        ],
+        "summary": "Programs focused on introducing children and families to golf, such as the Family Team Series Program and the Mill Creek Jr. Golf Camp, emphasizing fun, learning through play, and family involvement in the game.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 23,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "family",
+            "real",
+            "targeting",
+            "money",
+            "immediately",
+            "scams",
+            "number",
+            "text",
+            "bank",
+            "banking"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Seniors",
+            "Families",
+            "Residents"
+        ],
+        "summary": "Warnings and advice for residents on how to protect themselves and their families from various scams, including those impersonating utility providers or family members in distress, and recommending verification steps like calling family directly or agreeing on a 'safe word'.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 24,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "bid",
+            "bond",
+            "bidders",
+            "licensed",
+            "performance",
+            "bidder",
+            "owner",
+            "bids",
+            "shall",
+            "reject"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "licensed contractors",
+            "bidders",
+            "property owners",
+            "City of Mebane"
+        ],
+        "summary": "This initiative outlines the requirements for bidders, including being duly licensed contractors, and the necessity of bid bonds or certified checks for construction projects in Mebane.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 25,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "seat",
+            "technician",
+            "car",
+            "child",
+            "vehicle",
+            "proper",
+            "discuss",
+            "harness",
+            "technicians",
+            "facing"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "parents",
+            "caregivers",
+            "children",
+            "Mebane Fire Department",
+            "Child Passenger Safety (CPS) Technicians"
+        ],
+        "summary": "The Mebane Fire Department offers a free Child Safety Seat Permanent Checking Station, providing nationally certified technicians to educate parents and caregivers on the correct selection, installation, and use of car seats to prevent unintentional deaths in children.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 26,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "calea",
+            "accreditation",
+            "agency",
+            "process",
+            "standards",
+            "law",
+            "professional",
+            "enforcement",
+            "portal",
+            "titles"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Mebane Police Department",
+            "Chief Executive Officer (CEO)",
+            "law enforcement personnel",
+            "community members",
+            "CALEA assessors"
+        ],
+        "summary": "The Mebane Police Department participates in the CALEA Law Enforcement Accreditation process, a modern management model designed to establish professional standards, improve service delivery, strengthen accountability, and facilitate professional excellence, with public feedback opportunities via a portal.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 27,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "parks",
+            "recreation",
+            "facilities",
+            "matters",
+            "programs",
+            "december",
+            "meetings",
+            "sub",
+            "commission",
+            "advocacy"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "City Council",
+            "Recreation and Parks Department",
+            "citizens",
+            "legislators",
+            "senior citizens (via SPICE subcommittee)",
+            "Recreation and Parks Advocacy Commission members"
+        ],
+        "summary": "The Mebane Recreation and Parks Advocacy Commission provides direction to the City Council and Recreation and Parks Department on programs, facilities, policies, and long-range plans, acting as champions to promote the value of recreation and parks to the community.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 28,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "standards",
+            "design",
+            "specifications",
+            "construction",
+            "city",
+            "shall",
+            "projects",
+            "ordinance",
+            "apply",
+            "manual"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "engineers",
+            "contractors",
+            "developers",
+            "City of Mebane staff (City Engineer)",
+            "residents (impacted by infrastructure projects)"
+        ],
+        "summary": "The City of Mebane has established design standards and specifications to guide the preparation and submittal of plans and the construction of roadway, utility, and development projects, ensuring uniformity and adherence to local ordinances within the city and its extra-territorial jurisdiction.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 29,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "board",
+            "meetings",
+            "planning",
+            "agenda",
+            "meeting",
+            "minutes",
+            "video",
+            "advisory",
+            "packet",
+            "2025"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Planning Board members",
+            "Board of Adjustment members",
+            "Racial Equity Advisory members",
+            "Bicycle and Pedestrian Advisory Commission members",
+            "Recreation and Parks Advocacy Commission members",
+            "public"
+        ],
+        "summary": "This initiative provides public access to information regarding Planning Board meetings, including agendas, minutes, and video recordings, as well as information for other city advisory commissions.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Mebane",
+        "topic_id": 30,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "doctor",
+            "verification",
+            "receiving",
+            "request",
+            "special",
+            "typically",
+            "form",
+            "service",
+            "services",
+            "report"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "physically disabled residents",
+            "elderly disabled residents",
+            "Public Works Department Sanitation Division staff",
+            "doctors"
+        ],
+        "summary": "Mebane's Public Works Department, Sanitation Division, offers special collection services for physically or elderly disabled residents upon receiving a valid doctor's verification form, with periodic updates to ensure continued need.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 0,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "recycling",
+            "waste",
+            "stars",
+            "gas",
+            "material",
+            "methane",
+            "recycle",
+            "composting",
+            "cart",
+            "organic"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County households",
+            "residents",
+            "Orange County Solid Waste Department",
+            "Southeast Recycling Development Council",
+            "North Carolina Department of Environmental Quality"
+        ],
+        "summary": "The Orange County Solid Waste Department's 'Recycling Stars Program' aims to enhance the quality and quantity of household recyclables by educating residents on proper recycling practices through cart inspections, personalized feedback, and rewards for correct recycling, which has resulted in a 59% improvement in inspected carts.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 1,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "emergency",
+            "kit",
+            "disaster",
+            "orange",
+            "weather",
+            "heat",
+            "preparedness",
+            "county",
+            "alerts",
+            "shelters"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County residents",
+            "families",
+            "older adults",
+            "pet owners",
+            "Duke Power customers",
+            "Piedmont Electric customers",
+            "PSNC customers",
+            "Department of Social Services",
+            "Health Department",
+            "Animal Services",
+            "American Red Cross",
+            "Community Emergency Response Team (CERT)",
+            "Public Health Reserve Corps"
+        ],
+        "summary": "Orange County's 'Ready Orange' initiative serves as a comprehensive resource for disaster and emergency preparedness, encouraging residents to sign up for alerts, build family emergency kits, create plans, and providing information on emergency shelters and utility outage reporting.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 2,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "aging",
+            "yr",
+            "implementation",
+            "final",
+            "master",
+            "senior",
+            "plan",
+            "guide",
+            "activity",
+            "2017"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "older adults in Orange County",
+            "Orange County Department on Aging",
+            "community members"
+        ],
+        "summary": "The Orange County Department on Aging implements a five-year Master Aging Plan (MAP) to ensure comprehensive and coordinated delivery of community services and support, fostering lifelong engagement and well-being for the county's growing older adult population.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 3,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "health",
+            "healthy",
+            "assessment",
+            "education",
+            "department",
+            "data",
+            "american",
+            "association",
+            "cha",
+            "national"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "residents",
+            "community members",
+            "partners",
+            "Board of Health",
+            "Health Department staff",
+            "Health educators"
+        ],
+        "summary": "The Health Promotion and Education Services team in Orange County designs, implements, and evaluates health education programs, working with partners across the county. Key activities include sharing health information, creating communication campaigns, hosting trainings, planning programs, and attending health fairs. Specific programs include supporting the Board of Health, Healthy Carolinians of Orange County (improving health and wellness, creating health assessments), Quit Nicotine for Good! (group classes and counseling), and promoting Smoke-Free Orange County policies.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 4,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "foster",
+            "adoption",
+            "pet",
+            "meet",
+            "greets",
+            "kitten",
+            "ocas",
+            "fosters",
+            "card",
+            "fostering"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "foster parents",
+            "adopters",
+            "pets",
+            "Orange County Animal Services (OCAS) staff",
+            "community members"
+        ],
+        "summary": "Orange County Animal Services (OCAS) runs a Foster Parent Hub to support fostering pets, aiming to reduce shelter stress and facilitate adoptions. The program encourages pet promotion through report cards and participation in adoption events like 'Foster Feature Saturdays'. It also provides resources for foster medical visits, including an emergency line and scheduled appointments, and detailed resources for fostering kittens, including neonatal training and weaning guidance. OCAS has an adoption policy for foster parents, emphasizing a first-come, first-served basis and staff decision-making.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 5,
+        "primary_category": "waste management, stormwater, and infrastructure",
+        "representation": [
+            "conservation",
+            "water",
+            "agricultural",
+            "soil",
+            "district",
+            "lands",
+            "share",
+            "cost",
+            "quality",
+            "landowners"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County landowners",
+            "operators",
+            "agricultural community",
+            "residential buildings",
+            "commercial buildings",
+            "public buildings",
+            "private buildings",
+            "youth",
+            "adults",
+            "North Carolina Forest Service"
+        ],
+        "summary": "The Orange County Soil & Water Conservation District provides technical, financial, and educational assistance to landowners and operators on erosion control and water quality. They offer cost-share programs, typically covering 75% of costs, to implement best management practices for agricultural, rural, and urban water quality and resource issues. Services include animal waste management, conservation planning, nutrient management, riparian restoration, sediment control, stream bank stabilization, voluntary agriculture and farmland preservation programs, closure of abandoned wells, community conservation assistance (CCAP), educational programs, forestry management, and wildlife habitat improvement.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 6,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "board",
+            "boards",
+            "application",
+            "pdf",
+            "appointed",
+            "commission",
+            "volunteer",
+            "requirements",
+            "equalization",
+            "review"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County residents",
+            "volunteers",
+            "Board of County Commissioners",
+            "Clerk's Office",
+            "youth"
+        ],
+        "summary": "Orange County encourages residents to volunteer for its various boards and commissions to influence county decisions. The program emphasizes diverse representation and outlines general requirements for service, including age, residency, attendance, and ethical compliance. Specific boards like Equalization and Review, Economic Development Advisory, Board of Adjustment, and Planning Board require disclosure statements. The county provides an online application process and manages appointments as vacancies occur, with applications remaining active for two years.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 7,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "library",
+            "room",
+            "office",
+            "accounts",
+            "chapel",
+            "hill",
+            "quicklinks",
+            "main",
+            "division",
+            "study"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County residents",
+            "community members"
+        ],
+        "summary": "Orange County departments utilize various social media platforms, including Facebook, Twitter, Instagram, and YouTube, to enhance outreach efforts and provide notifications to residents. Departments maintaining these accounts include Government, Department on Aging, Animal Services, Arts Commission, DEAPR, Health Department, Library, Partnership to End Homelessness, Recreation, Sheriff, Economic Development, Emergency Services, Solid Waste Management, Tax Office, and Visit Chapel Hill & Orange County.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 8,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "departments",
+            "government",
+            "relations",
+            "library",
+            "county",
+            "academy",
+            "present",
+            "community",
+            "cohort",
+            "services"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County residents",
+            "county staff",
+            "Board of County Commissioners"
+        ],
+        "summary": "The Orange County Government Academy is an eight-week program designed to educate residents aged 16 and older about the operations of Orange County government. It includes interactive learning sessions with UNC School of Government faculty and county staff from over 19 departments, as well as exclusive tours of county facilities like the 911 Call Center, Animal Services, and the Drakeford Library Complex. The program aims to foster community engagement and understanding of how residents can contribute to the community.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 9,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "hikes",
+            "dogs",
+            "hounds",
+            "dog",
+            "adventures",
+            "adventure",
+            "park",
+            "hike",
+            "explore",
+            "trails"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "adoptable dogs",
+            "volunteers",
+            "Orange County Animal Services",
+            "Orange County Department of Environment, Agriculture, Parks and Recreation",
+            "community members"
+        ],
+        "summary": "Hikes with Hounds is a monthly enrichment program collaboration between Orange County Animal Services and the Department of Environment, Agriculture, Parks and Recreation. It allows adoptable dogs to leave the shelter for guided 3-mile hikes at Blackwood Farm Park with pre-registered volunteers. The program aims to provide mental and physical enrichment for dogs, offer meaningful volunteer experiences, increase community engagement and visibility for dogs needing homes, and support positive leash skills and socialization. Advance registration is required due to limited participation.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 10,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "cats",
+            "birds",
+            "loose",
+            "ingested",
+            "roaming",
+            "toxins",
+            "poisons",
+            "wild",
+            "cars",
+            "cruelty"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "free-roaming cats",
+            "birds",
+            "small animals",
+            "residents",
+            "animal control"
+        ],
+        "summary": "Orange County Animal Services highlights safety and environmental concerns associated with free-roaming cats. These include risks to cats from cars, animal cruelty, attacks by loose dogs and wild animals, and exposure to toxins like antifreeze and rodent poisons. Additionally, free-roaming cats pose a significant threat to bird populations and other small animals due to their strong prey drive, with millions of birds estimated to be killed annually by loose cats.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 11,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "holiday",
+            "toy",
+            "toys",
+            "children",
+            "social",
+            "friends",
+            "donations",
+            "families",
+            "department",
+            "program"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "needy Orange County families",
+            "Orange County children",
+            "foster children",
+            "teen parents",
+            "young men and women",
+            "Department of Social Services (DSS) staff",
+            "volunteers",
+            "donors"
+        ],
+        "summary": "The Orange County Department of Social Services (DSS) offers various volunteer and donor opportunities to support local families and children. Programs include Foster Parenting (providing temporary homes for children in crisis), a Holiday Program (providing food and gifts to needy families), an Adolescent Parenting Program (mentoring teen parents for high school degrees and pregnancy prevention), and a Summer Camp Program (enabling children to attend camp). Additionally, the 'Friends of DSS' initiative helps with financial emergencies, material resources, and volunteer recruitment for staff support. The Heusner Fund assists foster children with college tuition and materials.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 12,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "spay",
+            "neuter",
+            "roaming",
+            "cats",
+            "free",
+            "spaying",
+            "neutering",
+            "cat",
+            "overpopulation",
+            "community"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "pet owners",
+            "DSS clients",
+            "income-qualified residents",
+            "pets",
+            "free-roaming cats",
+            "community cat caretakers",
+            "Orange County Animal Services (OCAS)",
+            "community members"
+        ],
+        "summary": "Orange County Animal Services (OCAS) implements spay/neuter programs to control pet overpopulation and reduce unwanted litters, aiming for a healthier community and fewer shelter animals. They offer no-cost spay/neuter vouchers for DSS clients and income-qualified residents, and provide information on low-cost options. A specific community cat spay/neuter program targets free-roaming, often feral or semi-feral, cats with the help of community cat caretakers for trapping, requiring a refundable deposit for traps. This approach aims to humanely manage free-roaming cat populations rather than just removing them.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 13,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "volunteer",
+            "volunteers",
+            "dog",
+            "training",
+            "support",
+            "opportunities",
+            "species",
+            "volunteering",
+            "dogs",
+            "shifts"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "volunteers",
+            "dogs",
+            "cats",
+            "kittens",
+            "community members",
+            "Orange County Animal Services"
+        ],
+        "summary": "Orange County Animal Services offers a comprehensive volunteer program to provide enrichment, comfort, and care for animals. Opportunities include dog walking, cat socialization, grooming, adoption support, event assistance, and community outreach. The program involves an application, virtual and in-person training, and mentored shifts, with specialized tracks for dog and cat volunteering, fostering, and 'Dog Adventures' programs.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 14,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "social",
+            "residents",
+            "live",
+            "safe",
+            "services",
+            "department",
+            "families",
+            "self",
+            "healthy",
+            "able"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "vulnerable children",
+            "at-risk elderly",
+            "persons with disabilities",
+            "economically disadvantaged",
+            "all Orange County residents",
+            "low-income families",
+            "families",
+            "individuals"
+        ],
+        "summary": "The Orange County Department of Social Services provides preventive, supportive, and restorative services to protect vulnerable children, the at-risk elderly, persons with disabilities, and the economically disadvantaged. Key goals include ensuring safe and healthy lives for all residents, access to safe and affordable housing, food security, and promoting self-sufficiency and independence within stable family environments.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 15,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "individuals",
+            "justice",
+            "criminal",
+            "court",
+            "cjrd",
+            "legal",
+            "pretrial",
+            "diversion",
+            "incarceration",
+            "substance"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "individuals involved in Orange County's criminal legal system",
+            "individuals in custody or at risk of incarceration",
+            "youth",
+            "adults with behavioral health diagnoses",
+            "people experiencing homelessness",
+            "formerly incarcerated people",
+            "low-income, justice-involved individuals",
+            "parents with abuse/neglect/dependency cases"
+        ],
+        "summary": "The Orange County Criminal Justice Resource Department (CJRD) aims to safely reduce unnecessary pretrial incarceration, increase jail alternatives and diversion opportunities, reduce justice involvement for individuals with behavioral health issues, reduce recidivism, and address racial and economic disparities. Programs include Pretrial Services, Behavioral Health Services, various Diversion and Deflection Programs, Recovery Courts, Restoration Legal Counsel, a Local Reentry Council, and collaborations for Street Outreach, Harm Reduction and Deflection (SOHRAD) and the Partnership to End Homelessness.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 16,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "donation",
+            "donate",
+            "gofundme",
+            "fund",
+            "recovery",
+            "donations",
+            "allocated",
+            "lifesaving",
+            "areas",
+            "amazon"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "donors",
+            "Orange County Animal Services",
+            "small businesses (for economic recovery fund)",
+            "animals (for lifesaving programs)"
+        ],
+        "summary": "Orange County facilitates public donations through a General Recovery Fund, which allocates resources to various recovery areas including economic support for small businesses, and a GoFundMe portal dedicated to supporting Orange County Animal Services' lifesaving programs.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 17,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "kittens",
+            "kitten",
+            "foster",
+            "neonatal",
+            "kmr",
+            "wet",
+            "weaning",
+            "wean",
+            "feeding",
+            "food"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "kittens",
+            "pregnant cats",
+            "foster parents",
+            "Orange County Animal Services",
+            "community members"
+        ],
+        "summary": "Orange County Animal Services operates a Kitten Foster Program to provide temporary homes and care for young kittens, particularly during 'kitten season,' to reduce shelter populations, promote socialization, and prevent disease. The program offers supplies, medical support, 24-hour assistance, and online neonatal kitten training resources covering feeding, weaning, and health monitoring.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 18,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "extension",
+            "tiana",
+            "ncacc",
+            "recognition",
+            "award",
+            "north",
+            "county",
+            "service",
+            "association",
+            "scholarship"
+        ],
+        "budget_allocation": 2500.0,
+        "impacted_stakeholders": [
+            "Orange County Health Director Quintana Stewart",
+            "Orange County Cooperative Extension Center",
+            "County Extension Director Jonathon Smith",
+            "Tiana Oxendine (student)",
+            "Orange County Commissioner Phyllis Portie-Ascott",
+            "public servants",
+            "county governments",
+            "students"
+        ],
+        "summary": "Orange County was recognized at the North Carolina Association of County Commissioners (NCACC) Annual Conference. Achievements include the Orange County Health Director receiving a Heroic Hands initiative recognition for public service, the Cooperative Extension Center being named runner-up for the North Central District Extension County Partnership Award, and student Tiana Oxendine receiving a $2,500 scholarship from the North Carolina Association of Black County Commissioners.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 19,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "cats",
+            "animals",
+            "shelter",
+            "rehomed",
+            "working",
+            "dogs",
+            "ocas",
+            "community",
+            "organizations",
+            "responses"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "animals (cats, dogs, kittens)",
+            "pet owners",
+            "community members",
+            "Orange County Animal Services",
+            "volunteers",
+            "student interns"
+        ],
+        "summary": "Orange County Animal Services reported key achievements in 2022 and 2023, demonstrating high live release rates for animals, successful fostering programs for kittens, rehoming of working barn cats, widespread rabies vaccinations, efficient response to service calls, extensive spay/neuter services for community animals, significant volunteer engagement, and effective diversion of community cats from the shelter.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 20,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "lost",
+            "recently",
+            "microchip",
+            "housed",
+            "currently",
+            "pet",
+            "reported",
+            "pets",
+            "center",
+            "animal"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "pet owners",
+            "community members",
+            "Orange County Animal Services",
+            "stray pets"
+        ],
+        "summary": "Orange County Animal Services provides comprehensive resources for residents to find lost pets and report found pets. These resources include viewing animals currently housed at the shelter, filing online lost/found reports, utilizing popular external pet recovery websites, accessing microchip scanning stations, and offering tips for community outreach to aid in pet reunification.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 21,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "tax",
+            "assistance",
+            "property",
+            "disabled",
+            "exclusion",
+            "programs",
+            "evaluator",
+            "elderly",
+            "veteran",
+            "value"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "elderly residents",
+            "permanently disabled residents",
+            "disabled American veterans",
+            "low-income families",
+            "builders",
+            "homeowners"
+        ],
+        "summary": "Orange County offers multiple property tax assistance programs, including state-provided Elderly and Disabled Exclusion, Disabled Veteran Exclusion, and Circuit Breaker Tax Deferment. Additionally, county programs like Solid Waste Programs Fee Financial Assistance, Exempt Property, Present Use Value, Builder Property Tax Exclusion, and a Longtime Homeowners Assistance Program are available to help eligible residents reduce their property tax burden.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 22,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "resource",
+            "guide",
+            "database",
+            "search",
+            "community",
+            "list",
+            "organization",
+            "recreation",
+            "lists",
+            "business"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "older adults",
+            "families",
+            "businesses",
+            "organizations",
+            "Orange County residents"
+        ],
+        "summary": "Orange County maintains a Community Resource Guide Database that lists local services and resources specifically for older adults and their families. This guide is regularly updated, available for download, and allows businesses and organizations to submit their listings to better serve the community.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 23,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "budget",
+            "annual",
+            "fiscal",
+            "year",
+            "prepare",
+            "operating",
+            "division",
+            "30",
+            "oversees",
+            "updating"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County residents",
+            "County departments",
+            "Board of County Commissioners",
+            "County staff"
+        ],
+        "summary": "Orange County's annual operating budget process, managed by the Budget Division, involves preparing annual requests from departments, setting tax rates and fee schedules, and monitoring the budget throughout the fiscal year. The Board of County Commissioners provides final approval.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 24,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "asab",
+            "animal",
+            "meeting",
+            "board",
+            "agenda",
+            "advisory",
+            "concern",
+            "concerns",
+            "comments",
+            "issues"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County residents",
+            "Animal Services Director",
+            "Board of County Commissioners",
+            "ASAB members",
+            "Pet owners",
+            "Animal welfare advocates"
+        ],
+        "summary": "The Orange County Animal Services Advisory Board (ASAB) is a volunteer board appointed by the Board of County Commissioners to advise on animal issues and services. It hears concerns from residents, works with the Animal Services Director on policy, and handles appeals for potentially dangerous dog declarations.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 25,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "donate",
+            "donations",
+            "donation",
+            "honor",
+            "person",
+            "thank",
+            "animal",
+            "chapel",
+            "hill",
+            "depend"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Donors",
+            "Orange County Animal Services",
+            "Animals in need",
+            "Chapel Hill residents",
+            "Pet owners"
+        ],
+        "summary": "Orange County Animal Services encourages monetary donations in honor or memory of beloved persons or pets to support its lifesaving programs and services. Donations can be made in-person, by mail, or online through the Community Giving Fund or GoFundMe, with options for acknowledgment to friends or family.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 26,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "placement",
+            "ocas",
+            "partner",
+            "rescue",
+            "groups",
+            "rescues",
+            "benefits",
+            "organizations",
+            "animals",
+            "lives"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County Animal Services (OCAS)",
+            "Area rescue organizations",
+            "Animals needing homes",
+            "Adopters"
+        ],
+        "summary": "Orange County Animal Services (OCAS) partners with area rescue organizations for the placement of adoptable animals. OCAS offers benefits like free vaccines and some medical services, as well as low-fee sterilization and microchipping, to these rescue groups to improve the lives of companion animals.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 27,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "rights",
+            "civil",
+            "discrimination",
+            "complaint",
+            "believe",
+            "ordinance",
+            "steps",
+            "operator",
+            "civic",
+            "life"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County residents",
+            "Individuals experiencing discrimination",
+            "Office of Civil Rights & Civic Life",
+            "County services",
+            "Housing providers",
+            "Public accommodations"
+        ],
+        "summary": "Orange County enforces civil rights protections against discrimination in housing, public accommodations, and county services through its Civil Rights Ordinance. The Office of Civil Rights & Civic Life provides free, confidential support and assists residents in filing complaints if they believe discrimination has occurred.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 28,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "rabies",
+            "testing",
+            "bats",
+            "wild",
+            "animal",
+            "exposure",
+            "animals",
+            "contact",
+            "carry",
+            "cat"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Pet owners",
+            "Orange County residents",
+            "Animal Control",
+            "Veterinarians",
+            "Public health officials",
+            "Wild animals"
+        ],
+        "summary": "Orange County mandates rabies vaccination for cats, dogs, and ferrets, and provides guidance on contact with potentially rabid wild animals, especially bats. Animal Control responds to exposures, and testing is conducted to determine the need for post-exposure prophylaxis for humans or isolation for domestic animals.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 29,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "fund",
+            "gifts",
+            "giving",
+            "donations",
+            "truist",
+            "gift",
+            "tax",
+            "sponsored",
+            "charitable",
+            "community"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Donors",
+            "Orange County government departments",
+            "County-sponsored activities",
+            "Community members benefiting from services"
+        ],
+        "summary": "The Orange County Community Giving Fund is an encompassing fund managed by Truist Bank that allows tax-deductible donations to support any county department or county-sponsored activity. It provides a framework for receiving various charitable gifts.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 30,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "direct",
+            "care",
+            "worker",
+            "sharp",
+            "clients",
+            "awards",
+            "workers",
+            "nomination",
+            "categories",
+            "winners"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Direct Care Workers",
+            "Clients receiving care",
+            "Orange County Department on Aging",
+            "Senior Health Advocacy and Resource Partners of Orange County (SHARP)",
+            "Project EngAGE"
+        ],
+        "summary": "The Orange County Department on Aging, in partnership with SHARP, recognizes Direct Care Workers serving clients in Orange County through annual awards. These awards celebrate workers in categories like Client Impact, Going the Extra Mile, Leadership, Longevity, and Rising Star, culminating in a 'Direct Care Worker of the Year' award.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 31,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "achievements",
+            "involved",
+            "reports",
+            "overview",
+            "departments",
+            "animal",
+            "government",
+            "home",
+            "services",
+            "resources"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County Animal Services",
+            "Orange County government",
+            "Residents interested in animal services performance"
+        ],
+        "summary": "Orange County Animal Services provides an 'Overview of Achievements' through reports and resources, detailing their accomplishments and performance for the year.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 32,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "submittable",
+            "referral",
+            "use",
+            "applications",
+            "application",
+            "online",
+            "epic",
+            "carelink",
+            "lhap",
+            "documentation"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Orange County residents in need of housing assistance",
+            "Applicants for EHA/LHAP",
+            "County staff processing applications"
+        ],
+        "summary": "Orange County utilizes Submittable as an online portal to process applications for housing assistance programs, including Emergency Housing Assistance (EHA) and the Limited Housing Assistance Program (LHAP), making the application process accessible to residents.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 33,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "accommodation",
+            "language",
+            "video",
+            "format",
+            "office",
+            "need",
+            "contact",
+            "require",
+            "information",
+            "materials"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents needing accessibility accommodations",
+            "Non-English speaking residents"
+        ],
+        "summary": "Orange County provides language assistance and accessibility support to residents who need information in different languages or formats, or require accommodations to access services or file complaints.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 34,
+        "primary_category": "public transportation and roads",
+        "representation": [
+            "transportation",
+            "bus",
+            "specialist",
+            "buses",
+            "fare",
+            "door",
+            "ride",
+            "route",
+            "717",
+            "traveling"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Older adults",
+            "Non-drivers",
+            "Residents needing public transit"
+        ],
+        "summary": "Orange County offers a Transportation Specialist service to help older adults and non-drivers identify transportation options, access services, and navigate public transit, including bus riding classes and workshops.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 35,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "introducing",
+            "pet",
+            "start",
+            "days",
+            "settling",
+            "cautious",
+            "probably",
+            "comfortable",
+            "new",
+            "patience"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "New pet owners",
+            "Pets"
+        ],
+        "summary": "Orange County provides guidelines for introducing new pets into a home, emphasizing patience and a '3-3-3 Rule' to help pets adjust over time.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 36,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "infants",
+            "sleep",
+            "english",
+            "educational",
+            "materials",
+            "preventing",
+            "identifying",
+            "firearms",
+            "gun",
+            "safe"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Families with infants",
+            "Children",
+            "Gun owners",
+            "Parents"
+        ],
+        "summary": "Orange County Social Services provides educational materials in English and Spanish to help families prevent child abuse, ensure safe sleep for infants, safely store firearms, and keep medication out of reach of children.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 37,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "rescue",
+            "placement",
+            "partner",
+            "sanctuaries",
+            "sanctuary",
+            "rescues",
+            "guinea",
+            "pig",
+            "pact",
+            "chicken"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Pet owners needing to rehome pets",
+            "Animals"
+        ],
+        "summary": "Orange County provides a list of external pet rescue and sanctuary organizations to assist pet owners in finding placement for their animals, aiming to reduce the number of animals in shelters.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 38,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "records",
+            "request",
+            "public",
+            "portal",
+            "confidential",
+            "submit",
+            "north",
+            "carolina",
+            "record",
+            "online"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "General public",
+            "Residents"
+        ],
+        "summary": "Orange County Government maintains public records and provides an online Public Records Request Portal, Next Request, for residents to submit and track requests in accordance with North Carolina State Public Records Laws.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 39,
+        "primary_category": "town governance, human resources, and board appointments",
+        "representation": [
+            "gazette",
+            "government",
+            "latest",
+            "news",
+            "newsletter",
+            "included",
+            "highlights",
+            "orange",
+            "2026",
+            "month"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Residents",
+            "General public"
+        ],
+        "summary": "Orange County Government publishes a monthly 'Government Gazette' in The News of Orange, highlighting county programs and services to keep residents informed.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 40,
+        "primary_category": "building permits, inspections, and local ordinances",
+        "representation": [
+            "road",
+            "street",
+            "naming",
+            "reserved",
+            "names",
+            "shall",
+            "approval",
+            "directional",
+            "confirmation",
+            "roads"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Developers",
+            "Property owners",
+            "Residents"
+        ],
+        "summary": "Orange County outlines guidelines and procedures for reserving and approving road names for new developments, requiring adherence to the 2011 Road Naming and Addressing Ordinance.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 41,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "foster",
+            "fostering",
+            "dog",
+            "capacity",
+            "forever",
+            "lives",
+            "shelter",
+            "dogs",
+            "number",
+            "pets"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Animals in shelters",
+            "Prospective foster parents",
+            "Dog owners"
+        ],
+        "summary": "Orange County's Dog Foster Program partners with the public to provide temporary shelter and care for dogs, increasing shelter capacity, improving pet well-being, and acting as a bridge to forever homes. The program details foster responsibilities and county support.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 42,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "pet",
+            "choice",
+            "veterinarian",
+            "care",
+            "pets",
+            "consider",
+            "family",
+            "life",
+            "veterinary",
+            "wild"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "Prospective pet owners",
+            "Pet owners",
+            "Pets"
+        ],
+        "summary": "Orange County provides guidance for prospective pet owners on selecting a suitable pet, advising considerations such as lifestyle, commitment, and costs, with an emphasis on regular veterinary care and discouraging wild animals as pets.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 43,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "landlord",
+            "eha",
+            "court",
+            "approve",
+            "eviction",
+            "summons",
+            "changing",
+            "helpline",
+            "housing",
+            "papers"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "landlords",
+            "tenants",
+            "EHA applicants",
+            "court system"
+        ],
+        "summary": "This initiative outlines the process for emergency housing assistance (EHA) applications, including landlord notification and protection against eviction during the application period.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 44,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "tue",
+            "23",
+            "events",
+            "24",
+            "wed",
+            "28",
+            "14",
+            "thu",
+            "mon",
+            "11"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community members"
+        ],
+        "summary": "This topic provides information on upcoming events and meetings for the Register of Deeds, showing a calendar with no published events for the current month.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 45,
+        "primary_category": "affordable housing and zoning",
+        "representation": [
+            "housing",
+            "refugee",
+            "homeowners",
+            "assistance",
+            "including",
+            "continuation",
+            "streamlined",
+            "repair",
+            "support",
+            "survivors"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "displaced survivors",
+            "homeowners",
+            "refugees"
+        ],
+        "summary": "This initiative focuses on housing support programs, including emergency housing assistance, assistance for displaced survivors, and rehabilitation/preservation of housing for homeowners.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 46,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "website",
+            "edit",
+            "directory",
+            "subscriptions",
+            "progress",
+            "notification",
+            "manage",
+            "save",
+            "account",
+            "create"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "website users",
+            "community members"
+        ],
+        "summary": "This topic describes how to create a website account to manage notification subscriptions and save form progress, and provides staff directory information.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 47,
+        "primary_category": "parks, recreation, and public art",
+        "representation": [
+            "feet",
+            "fit",
+            "seniors",
+            "problems",
+            "wellness",
+            "nails",
+            "foot",
+            "program",
+            "exercise",
+            "participate"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "seniors",
+            "program participants"
+        ],
+        "summary": "This initiative addresses the Fit Seniors program, which involves physical activity and foot care advice, recommending participants consult a physician before joining.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 48,
+        "primary_category": "uncategorized initiatives",
+        "representation": [
+            "sign",
+            "password",
+            "characters",
+            "microsoft",
+            "external",
+            "apple",
+            "account",
+            "identity",
+            "google",
+            "provider"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "website users"
+        ],
+        "summary": "This topic describes methods for creating or signing into a website account using external identity providers like Apple, Facebook, Google, and Microsoft.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 49,
+        "primary_category": "climate action and clean energy",
+        "representation": [
+            "sustainability",
+            "climate",
+            "action",
+            "energy",
+            "email",
+            "mel",
+            "amy",
+            "nabors",
+            "karina",
+            "gilles"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "community members",
+            "businesses",
+            "environment",
+            "future generations"
+        ],
+        "summary": "This initiative details Orange County's sustainability efforts, including reducing waste, expanding clean energy, promoting climate resilience, and offering community programs and grants related to climate action.",
+        "related_doc_count": 3
+    },
+    {
+        "municipality_name": "Orange County",
+        "topic_id": 50,
+        "primary_category": "police, fire, and emergency response",
+        "representation": [
+            "hearing",
+            "appeal",
+            "dangerous",
+            "declared",
+            "review",
+            "panel",
+            "owner",
+            "animal",
+            "declarations",
+            "declaration"
+        ],
+        "budget_allocation": null,
+        "impacted_stakeholders": [
+            "animal owners",
+            "general public",
+            "Animal Services"
+        ],
+        "summary": "This initiative outlines the procedures for declaring an animal dangerous, including the appeal process through an Animal Services Hearing Panel Pool and subsequent appeal options to Superior Court.",
+        "related_doc_count": 3
+    }
+]
