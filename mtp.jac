@@ -46,9 +46,9 @@ with entry {
     
     output_data = [];
 
-    start_index = 150; 
+    start_index = 150; # Change this to the index you want to resume from (0-based). For example, if you want to start from the 151st document, set it to 150. Helpful if the LLM call fails and you want to resume without reprocessing everything.
     
-    # NEW: Define how many documents to send in a single LLM call
+    # Define how many documents to send in a single LLM call
     batch_size = 10; 
 
     print(f"Resuming extraction from document {start_index + 1} with a batch size of {batch_size}...");
