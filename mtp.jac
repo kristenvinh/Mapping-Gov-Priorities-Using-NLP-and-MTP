@@ -20,11 +20,11 @@ enum PolicyPriorityArea {
 
 obj PolicyInitiative {
     has municipality_name: str;
-    has topic_id: int;                        # NEW: Links the LLM extraction back to the BERTopic cluster
+    has topic_id: int;                        # Links the LLM extraction back to the BERTopic cluster
     has primary_category: PolicyPriorityArea;
-    has representation: list[str];            # NEW: The BERTopic keyword list you requested
+    has representation: list[str];            # Lists the keywords that represent the topic, extracted from BERTopic
     has budget_allocation: float | None;
-    has impacted_stakeholders: list[str];     # NEW: Identifies who the policy affects (e.g., "Homeowners", "Contractors")
+    has impacted_stakeholders: list[str];     # Identifies who the policy affects (e.g., "Homeowners", "Contractors")
     has summary: str;
     has related_doc_count: int;
 }
