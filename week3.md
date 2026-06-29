@@ -1,4 +1,4 @@
-# WEEK 2 DEMO: Mapping Gov Priorities Using NLP and MTP
+# WEEK 3 DEMO: Mapping Gov Priorities Using NLP and MTP
 
 ---
 
@@ -16,7 +16,9 @@ I’m building a data-scraping project, **Mapping Gov Priorities Using NLP and M
 
 ## What did you make progress on this week?
 
-### 1. 
+### 1. Add census.py to fetch demographic data from the American Community Survey API for Orange County and nearby NC cities. 
+
+Includes variables for housing, commuting, broadband access, income, population, and race/ethnicity. Adds acs_demographics.csv with the fetched baseline data.
 ---
 
 ## What challenges did you encounter?
