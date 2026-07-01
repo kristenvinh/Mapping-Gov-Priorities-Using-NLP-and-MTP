@@ -1,0 +1,6 @@
+city_name,total_population,median_income,pct_white,pct_black,pct_asian,pct_hispanic,pct_transit_commuters,pct_broadband_access,pct_severe_rent_burden
+Orange County (Baseline),145919,85785,68.5,10.64,7.79,8.73,4.73,92.44,10.63
+Chapel Hill,58919,85940,64.65,10.32,13.38,6.77,7.03,92.45,18.5
+Carrboro,21242,76933,65.1,12.87,9.05,8.06,9.38,96.05,13.73
+Hillsborough,9534,86250,73.81,12.43,2.34,7.99,1.55,94.06,8.07
+Mebane,17899,78419,57.12,24.41,4.42,5.38,0.72,87.64,12.21
