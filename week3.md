@@ -18,7 +18,7 @@ I’m building a data-scraping project, **Mapping Gov Priorities Using NLP and M
 
 ### 1. Add census.py to fetch demographic data from the American Community Survey API for Orange County and nearby NC cities. 
 
-Includes variables for housing, commuting, broadband access, income, population, and race/ethnicity. Adds acs_demographics.csv with the fetched baseline data.
+Includes variables for housing, commuting, broadband access, income, population, and race/ethnicity. Adds acs_demographics.csv with the fetched baseline data. 
 ---
 
 ## What challenges did you encounter?
@@ -28,16 +28,6 @@ Includes variables for housing, commuting, broadband access, income, population,
 ---
 
 ## What’s next?
-* Step 1: Acquire Relevant Census Data (Days 1-2)
-To identify gaps between what municipalities are prioritizing and what their communities actually need, you should pull 5-year estimate data from the American Community Survey (ACS) via the Census API. Focus on variables that directly map to your strategic categories:
-
-Economic & Baseline Data: Use table B19013 to extract the Median Household Income for Orange County and its municipalities.
-
-Housing Cost Burden: Use table B25070 to pull data on gross rent as a percentage of household income. This is critical, as approximately 45 percent of renters in Orange County are considered housing cost-burdened.
-
-Transit Infrastructure: Use table B08301 (Means of Transportation to Work) to identify how many residents rely on public transit, carpooling, or walking.
-
-Digital Infrastructure: Use table B28002 to track the presence and types of broadband or internet subscriptions in the area.
 
 Step 2: Map Demographic Needs to Extracted Priorities (Day 3)
 With your MTP structured data and census data in hand, align the data geographically for Chapel Hill, Carrboro, Hillsborough, and Mebane. Create a matrix comparing the frequency and budget focus of the extracted priorities (e.g., "Housing" or "Transit") against the objective census indicators for those specific towns. For instance, you can check if the town with the highest renter cost burden actually has the highest density of housing affordability initiatives.  
