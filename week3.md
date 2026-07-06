@@ -16,7 +16,7 @@ I’m building a data-scraping project, **Mapping Gov Priorities Using NLP and M
 
 ## What did you make progress on this week?
 
-### 1. Add census.py to fetch demographic data from the American Community Survey API for Orange County and nearby NC cities. 
+### Add census.py to fetch demographic data from the American Community Survey API for Orange County and nearby NC cities. 
 
 Includes variables for housing, commuting, broadband access, income, population, and race/ethnicity. Adds acs_demographics.csv with the fetched baseline data. 
 ---
@@ -27,12 +27,9 @@ Includes variables for housing, commuting, broadband access, income, population,
 
 ---
 
-## What’s next?
+## What’s next?  
 
-Step 2: Map Demographic Needs to Extracted Priorities (Day 3)
-With your MTP structured data and census data in hand, align the data geographically for Chapel Hill, Carrboro, Hillsborough, and Mebane. Create a matrix comparing the frequency and budget focus of the extracted priorities (e.g., "Housing" or "Transit") against the objective census indicators for those specific towns. For instance, you can check if the town with the highest renter cost burden actually has the highest density of housing affordability initiatives.  
-
-Step 3: Conduct the Gap and Mismatch Analysis (Day 4)
+### Conduct the Gap and Mismatch Analysis (Day 4)
 Analyze the data for misalignments between public communication and demographic realities.
 
 Identify Policy Gaps: A gap exists if objective indicators of community need are high (e.g., low broadband access or high poverty) but the local government's extracted priorities rarely mention it.
@@ -41,5 +38,5 @@ Spatial Mismatch: Look for signs of spatial mismatch, such as transit strategies
 
 Urban vs. Rural Divide: Evaluate if the stated priorities shift significantly based on the population size of the municipality, and whether those shifts are justified by the census data.
 
-Step 4: Visualize and Synthesize Findings (Day 5)
+### Visualize and Synthesize Findings (Day 5)
 Translate your findings into a visual format. Use GIS mapping tools to overlay the quantitative census data (like median income or cost burden) with your qualitative MTP data (like the presence of specific catalytic projects or strategic goals). This will provide a concise, accessible presentation of where local governance aligns perfectly with community needs and where significant policy gaps remain.
