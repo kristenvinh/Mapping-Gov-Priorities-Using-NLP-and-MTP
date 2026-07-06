@@ -31,7 +31,7 @@ Organized by readability and to add some analysis notes. Started with priorities
 
 ## What’s next?  
 
-### Conduct the Gap and Mismatch Analysis (Day 4)
+### Conduct the Gap and Mismatch Analysis
 Analyze the data for misalignments between public communication and demographic realities.
 
 Identify Policy Gaps: A gap exists if objective indicators of community need are high (e.g., low broadband access or high poverty) but the local government's extracted priorities rarely mention it.
@@ -40,5 +40,3 @@ Spatial Mismatch: Look for signs of spatial mismatch, such as transit strategies
 
 Urban vs. Rural Divide: Evaluate if the stated priorities shift significantly based on the population size of the municipality, and whether those shifts are justified by the census data.
 
-### Visualize and Synthesize Findings (Day 5)
-Translate your findings into a visual format. Use GIS mapping tools to overlay the quantitative census data (like median income or cost burden) with your qualitative MTP data (like the presence of specific catalytic projects or strategic goals). This will provide a concise, accessible presentation of where local governance aligns perfectly with community needs and where significant policy gaps remain.
