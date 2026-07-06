@@ -1,6 +1,6 @@
-# Mapping Gov Priorities Using NLP and MTP
+# Analyzing Government Priorities in Orange County Using NLP and MTP
 
-Goal of this project is to map government priorities in Orange County North Carolina using Natural Language Processing for text summarization and Meaning-Typed Programming to extract government priorities.
+Goal of this project is to extract and analyze government priorities in Orange County North Carolina using Natural Language Processing for text summarization and Meaning-Typed Programming to extract government priorities.
 
 Created using assistance from Gemini AI. 
 
@@ -50,3 +50,71 @@ Then it initializes a loop to process the data from each municipality:
 5. it takes the topic dataframes generated for each municipality, adds a column specifying the municipality name, merges them into one master dataset, and exports the results to both CSV and JSON formats. It also creates a JSON export made to be fed to the LLM using MTP that:
 - Skip the outlier/noise topic, labeled as -1
 - Gets the topic name, id, keywords and the paragraphs that were representative of that topic
+
+## MTP Government Initiative Extraction -- mtp.jac
+
+Sets up an object for the LLM to extract policy initiatives and related values:
+
+```
+
+obj PolicyInitiative {
+    has municipality_name: str;
+    has topic_id: int;                        # Links the LLM extraction back to the BERTopic cluster
+    has primary_category: PolicyPriorityArea;
+    has representation: list[str];            # Lists the keywords that represent the topic, extracted from BERTopic
+    has budget_allocation: float | None;
+    has impacted_stakeholders: list[str];     # Identifies who the policy affects (e.g., "Homeowners", "Contractors")
+    has summary: str;
+    has related_doc_count: int;
+}
+```
+
+Also sets up an enum with the possible policy initiative topic areas for it to choose from"
+
+```
+enum PolicyPriorityArea {
+    HOUSING = "affordable housing and zoning",
+    ENVIRONMENTAL_RESILIENCE = "climate action and clean energy",
+    ECONOMIC_DEVELOPMENT = "job creation and business support",
+    COMMUNITY_SAFETY = "police, fire, and emergency response",
+    TRANSIT_INFRASTRUCTURE = "public transportation and roads",
+    PARKS_AND_CULTURE = "parks, recreation, and public art",
+    PUBLIC_ADMINISTRATION = "town governance, human resources, and board appointments",
+    PUBLIC_WORKS = "waste management, stormwater, and infrastructure",
+    CODE_ENFORCEMENT = "building permits, inspections, and local ordinances",
+    UNKNOWN = "uncategorized initiatives"
+}
+```
+
+Defines a loop that processes a list of documents in batches, extracting policy initiatives using an LLM, and saving the results to a JSON file. It includes error handling and allows for resuming from a specific index if needed.
+
+### Merge the extracted initiatives into one document -- merge_json.py
+
+As a result of using the free Gemini tier, extracting the initiatives using the byLLM model hit rate limits often. This file merges the extracted json files together.
+
+## Analysis Files
+
+### Census.py
+
+Pulls the following demographics and statistics for the four municipalities and the county:
+
+```
+    'B25070_010E',   # Rent is 50.0% or more of income
+    'B08301_001E',   # Total Workers 16+
+    'B08301_010E',   # Workers who commute via Public Transportation
+    'B28002_001E',   # Total Households
+    'B28002_004E',   # Households with Broadband of any type
+    'B19013_001E',   # Median Household Income
+    'B01003_001E',   # Total Population
+    'B03002_003E',   # Non-Hispanic White alone
+    'B03002_004E',   # Non-Hispanic Black or African American alone
+    'B03002_006E',   # Non-Hispanic Asian alone
+    'B03002_012E'    # Hispanic or Latino (Any race)
+```
+
+## Brief Analysis of Extracted Initiatives and Relation to Region Demographics
+
+## Future Work
+
+## Thank You
+This work was inspired by the paper "Mapping Local Government Priorities: A Web-Mining Approach for Regional Research," which maps government priorities in Germany.
