@@ -92,7 +92,7 @@ Defines a loop that processes a list of documents in batches, extracting policy 
 
 As a result of using the free Gemini tier, extracting the initiatives using the byLLM model hit rate limits often. This file merges the extracted json files together.
 
-## Analysis Files
+## Census Analysis
 
 ### Census.py
 
@@ -112,7 +112,19 @@ Pulls the following demographics and statistics for the four municipalities and 
     'B03002_012E'    # Hispanic or Latino (Any race)
 ```
 
-## Brief Analysis of Extracted Initiatives and Relation to Region Demographics
+### Census_Data_Analysis.py 
+
+Analyzes Census data from the four municipalities and the county:
+
+Calculates demographic and ethnicity percentages:
+![Demographic Heatmap](data/census/demographic_heatmap.png)
+
+- Calculates percentage of households with severe rent burden (Rent is 50.0% or more of income)
+- Calculates percentage of workers who commute via public transit
+- Calculates households with broadband access 
+
+
+## Analysis of Findings
 
 ## Future Work
 
