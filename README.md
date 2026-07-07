@@ -114,17 +114,27 @@ Pulls the following demographics and statistics for the four municipalities and 
 
 ### Census_Data_Analysis.py 
 
-Analyzes Census data from the four municipalities and the county:
+Analyzes Census data from the four municipalities and the county. Due to limited time, national stats are referenced via Census press releases and therefore may refer to slightly different years than the data pulled for Orange County from the Census's American Community Survey 5-Year Data 2022. 
 
-Calculates demographic and ethnicity percentages:
+#### Calculates demographic and ethnicity percentages:
 ![Demographic Heatmap](data/census/demographic_heatmap.png)
 
-- Calculates percentage of households with severe rent burden (Rent is 50.0% or more of income)
-- Calculates percentage of workers who commute via public transit
-- Calculates households with broadband access 
+#### Calculates percentage of households with rent burden (Rent is 30.0% or more of income):
+![Rent Burden Chart](data/census/rent_burden_comparison.png)
+
+Nearly half (49.7%) of renters in 2023 had rent that was 30% or more of their income according to [Census.gov](https://www.census.gov/newsroom/press-releases/2024/renter-households-cost-burdened-race.html). Chapel Hill has higher than the nation and higher than the Orange County baseline of the percentage of households with rent burden. 
+
+#### Calculates percentage of workers who commute via public transit:
+![Transit Chart](data/census/transit_commuters_comparison.png)
+The national average in 2024 for those who commuted via public transit was 3.7 percent according to [Census.gov](https://www.census.gov/topics/employment/commuting/guidance/acs-1yr.html). Chapel Hill and Carborro are above this average. 
+
+#### Calculates households with broadband access: 
+![Broadband Chart](data/census/broadband_access_comparison.png)
+
+Only Mebane falls below the [national average](https://www.census.gov/newsroom/press-releases/2024/computer-internet-use-2021.html) of 90% of households having Broadband access. 
 
 
-## Analysis of Findings
+## Analysis of Findings -- Initiative_Analysis.ipynb
 
 ## Future Work
 

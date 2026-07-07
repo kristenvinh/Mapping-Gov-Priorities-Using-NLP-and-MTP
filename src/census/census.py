@@ -18,6 +18,10 @@ conn = cenpy.remote.APIConnection('ACSDT5Y2022')
 # 2. Define variables
 variables_to_pull = [
     'B25070_010E',   # Rent is 50.0% or more of income
+    'B25070_009E',   # Rent is 40.0 to 49.9% of income
+    'B25070_008E',   # Rent is 35.0 to 39.9% of income
+    'B25070_007E',   # Rent is 30.0 to 34.9% of income
+    'B25070_001E',    # Total Renter Households (for rent burden)
     'B08301_001E',   # Total Workers 16+
     'B08301_010E',   # Workers who commute via Public Transportation
     'B28002_001E',   # Total Households
@@ -78,7 +82,7 @@ if all_geographies_data:
         final_df[col] = pd.to_numeric(final_df[col], errors='coerce')
         
     # Save the master dataset
-    final_df.to_csv("acs_demographics.csv", index=False)
+    final_df.to_csv("data/census/acs_demographics.csv", index=False)
     print("\nData collection complete! Master CSV saved.")
 else:
     print("No data was collected.")
