@@ -27,16 +27,3 @@ Organized by readability and to add some analysis notes. Started with priorities
 * **Census Data Issues:** Pulling from the Census API Data was buggy. 
 * **Mitigation:** Eventually got it to work by pulling by FIPS codes.
 
----
-
-## What’s next?  
-
-### Conduct the Gap and Mismatch Analysis
-Analyze the data for misalignments between public communication and demographic realities.
-
-Identify Policy Gaps: A gap exists if objective indicators of community need are high (e.g., low broadband access or high poverty) but the local government's extracted priorities rarely mention it.
-
-Spatial Mismatch: Look for signs of spatial mismatch, such as transit strategies that do not align with the neighborhoods experiencing the highest rates of public transit reliance or job sprawl.
-
-Urban vs. Rural Divide: Evaluate if the stated priorities shift significantly based on the population size of the municipality, and whether those shifts are justified by the census data.
-

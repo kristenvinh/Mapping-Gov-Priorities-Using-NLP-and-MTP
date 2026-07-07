@@ -136,6 +136,22 @@ Only Mebane falls below the [national average](https://www.census.gov/newsroom/p
 
 ## Analysis of Findings -- Initiative_Analysis.ipynb
 
+Overall, when looking at all government priorities mentioned across all websites, "town governance, human resources, and board appointments" was the top referenced topic area, with job creation being the least referenced:
+
+![All Topic Areas](data/analysis/program_area_distribution.png)
+
+This project also looked at topic area by muncipality:
+
+![topic area by muncipality](data/analysis/program_area_distribution_heatmap.png)
+
+Noteably, Chapel Hill, which has a rent burden of over 50%, had 10% of it's topics extracted referencing affordable housing, the highest in the region. 
+
+Carrboro leads the region in public transit commuters, with 9.38% of workers utilizing public transportation—nearly double the county average of 4.73%. Correspondingly, 17% of the initiatives extracted from the Carrboro website referenced public transit or roads. 
+
+![stakeholders](data/analysis/stakeholder_distribution_heatmap.png)
+
+While residents and community members are often the primary stakeholders extracted from all websites, there are also frequent mentions of the business community: “property owners” (36 mentions) and “developers” (25) outpace “homeowners” (10).
+
 ## Future Work
 
 ## Thank You
