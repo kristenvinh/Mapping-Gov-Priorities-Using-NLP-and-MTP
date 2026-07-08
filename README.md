@@ -23,7 +23,7 @@ Calculates the statistics per municipality for:
 - Raw paragraphs vs. cleaned paragraphs
 - Raw words vs. cleaned words
 
-Outputs file to municpality_counts_breakdown.csv
+Outputs file to municipality_counts_breakdown.csv
 
 ### text_analytics.py
 Calculates the average statistics for:
@@ -112,7 +112,7 @@ Pulls the following demographics and statistics for the four municipalities and 
     'B03002_012E'    # Hispanic or Latino (Any race)
 ```
 
-### Census_Data_Analysis.py 
+### Census_Data_Analysis.ipynb
 
 Analyzes Census data from the four municipalities and the county. Due to limited time, national stats are referenced via Census press releases and therefore may refer to slightly different years than the data pulled for Orange County from the Census's American Community Survey 5-Year Data 2022. 
 
@@ -153,6 +153,10 @@ Carrboro leads the region in public transit commuters, with 9.38% of workers uti
 While residents and community members are often the primary stakeholders extracted from all websites, there are also frequent mentions of the business community: “property owners” (36 mentions) and “developers” (25) outpace “homeowners” (10).
 
 ## Future Work
+
+Many of the initiatives in "Orange County" were uncategorized, further work could be done to identify what was not built into the MTP object to identify what was missing from this list. Future work could explore dynamically updating the policy initiatives dynamically based on topics pulled from the BERTopic analysis.
+
+Due to LLM limitations, this focused on a small region, however this limited the analysis that could be done. Future work should explore further regions.
 
 ## Thank You
 This work was inspired by the paper "Mapping Local Government Priorities: A Web-Mining Approach for Regional Research," which maps government priorities in Germany.
